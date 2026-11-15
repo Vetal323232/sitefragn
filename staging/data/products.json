@@ -1,0 +1,9969 @@
+{
+"products": [
+{
+"id": 21996,
+"name": "Essential Parfums Bois Imperial",
+"slug": "essential-parfums-bois-imperial-2",
+"type": "simple",
+"sku": "238",
+"description": "<p>Це Імператорський ліс, аромат, створений Квентіном Бішом. І так, це хіт, який хочеться спробувати. Волога деревина, бадьорі цитруси, гарний шлейф. Звучання мʼяке, без вираженої «лікарняної» ноти, але наскільки красиве!</p>",
+"short_description": "",
+"price": 80.0,
+"regular_price": 80.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 198,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Essential Parfums",
+"slug": "essential-parfums"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Фужерні",
+"slug": "fuzherni"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/09/essential-parfums-bois-imperial-3.png",
+"rating": "5.00",
+"review_count": 3,
+"image_file": "essential-parfums-bois-imperial-2.webp"
+},
+{
+"id": 65658,
+"name": "Fragrance Du Bois Tropiques",
+"slug": "fragrance-du-bois-tropiques",
+"type": "simple",
+"sku": "1791",
+"description": "<p>Наче нескінченне літо у флаконі!</p>\n<p>Бергамот, мандарин і тропічні фрукти звучать соковито та яскраво. Лавандин додає свіжості, а карамель, амбра й мускус залишають мʼяку теплу базу.</p>",
+"short_description": "",
+"price": 230.0,
+"regular_price": 230.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 23,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Fragrance Du Bois",
+"slug": "fragrance-du-bois"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Квіткові",
+"slug": "kvitkovi"
+},
+{
+"name": "Лавандові",
+"slug": "lavandovi"
+},
+{
+"name": "Тропічні",
+"slug": "tropichni"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Parfum (парфум)",
+"slug": "parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/05/fragrance-du-bois-tropiques.jpg",
+"rating": "5.00",
+"review_count": 2,
+"image_file": "fragrance-du-bois-tropiques.webp"
+},
+{
+"id": 59289,
+"name": "Gritti Violet Venom",
+"slug": "gritti-violet-venom",
+"type": "simple",
+"sku": "1590",
+"description": "<p>Це запах ніжної пудри та крему для тіла. Ніби після душу на шкірі залишився аромат дорогого догляду: трохи квітів, мʼяка ваніль і чистий мускус.<br />\nТеплий, затишний і дуже схожий на аромат шкіри, який сидить близько, але звучить дорого.</p>",
+"short_description": "",
+"price": 160.0,
+"regular_price": 160.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 32,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Gritti",
+"slug": "gritti"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Білоквіткові",
+"slug": "bilokvitkovi"
+},
+{
+"name": "Ванільні",
+"slug": "vanilni"
+},
+{
+"name": "Пудрові",
+"slug": "pudrovi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/02/gritti-violet-venom.jpg",
+"rating": "4.80",
+"review_count": 5,
+"image_file": "gritti-violet-venom.webp"
+},
+{
+"id": 55271,
+"name": "Rue Broca Theoreme Pour Homme",
+"slug": "rue-broca-theoreme-pour-homme",
+"type": "simple",
+"sku": "1446",
+"description": "<p>Свіжий цитрус із чистим деревом. Пахне дорогою свіжістю, яка не кричить, а впевнено звучить. Яскравий, чоловічий, універсальний.</p>",
+"short_description": "",
+"price": 40.0,
+"regular_price": 40.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 530,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Чоловічі",
+"slug": "cholovichi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Rue Broca",
+"slug": "rue-broca"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Мускусні",
+"slug": "muskusni"
+},
+{
+"name": "Свіжі",
+"slug": "svizhi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/11/rue-broca-theoreme-pour-homme.jpg",
+"rating": "5.00",
+"review_count": 2,
+"image_file": "rue-broca-theoreme-pour-homme.webp"
+},
+{
+"id": 22001,
+"name": "Escentric molecules molecule 01",
+"slug": "escentric-molecules-molecule-01-2",
+"type": "simple",
+"sku": "19",
+"description": "<p>Одна з топових молекул — чиста та дзвінка, яку ви можете не відчути в місці нанесення, але зрозуміти, що вона завжди поряд з вами у шлейфі.<br />\nЛегка й невагома — для тих, кого все дратує.</p>",
+"short_description": "",
+"price": 90.0,
+"regular_price": 90.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 105,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Escentric molecules",
+"slug": "escentric-molecules"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Мускусні",
+"slug": "muskusni"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/09/escentric-molecules-molecule-01-11.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "escentric-molecules-molecule-01-2.webp"
+},
+{
+"id": 41337,
+"name": "Essential Parfums The Musc",
+"slug": "essential-parfums-the-musc",
+"type": "simple",
+"sku": "1235",
+"description": "<p>Чистий, ніжний мускус із легкою квітковістю. Наче свіжа білизна та тепла шкіра. Дуже делікатний — «ваш аромат, але кращий».</p>",
+"short_description": "",
+"price": 60.0,
+"regular_price": 60.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 126,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Essential Parfums",
+"slug": "essential-parfums"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Лавандові",
+"slug": "lavandovi"
+},
+{
+"name": "Мускусні",
+"slug": "muskusni"
+},
+{
+"name": "Пудрові",
+"slug": "pudrovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/05/Essential-Parfums-The-Musc.jpg",
+"rating": "4.67",
+"review_count": 3,
+"image_file": "essential-parfums-the-musc.webp"
+},
+{
+"id": 32818,
+"name": "Etat Libre d&#8217;Orange The Ghost In The Shell",
+"slug": "etat-libre-d-orange-the-ghost-in-the-shell",
+"type": "simple",
+"sku": "1131",
+"description": "<p>Знаєте, як називається найбільш мильний аромат у світі? Той, що пахне тим самим милом, яке на 100% було у вашої мами або бабусі.<br />\nТой самий білий ароматний брусок, який клали в шафу до чистої білизни, а вона потім пахла на всю хату.<br />\nЦе подорож до ваших спогадів, яку можна здійснити одним подихом, просто заплющивши очі.<br />\nНоти цього парфуму також вражають: талий сніг, людська шкіра, молоко й чотири різні молекули.</p>",
+"short_description": "",
+"price": 70.0,
+"regular_price": 70.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 22,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Etat",
+"slug": "etat"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Білоквіткові",
+"slug": "bilokvitkovi"
+},
+{
+"name": "Квіткові",
+"slug": "kvitkovi"
+},
+{
+"name": "Лактонний",
+"slug": "laktonnyj"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/02/Etat-Libre-dOrange-The-Ghost-In-The-Shell.jpg",
+"rating": "5.00",
+"review_count": 3,
+"image_file": "etat-libre-d-orange-the-ghost-in-the-shell.webp"
+},
+{
+"id": 21936,
+"name": "Jo Malone Wood Sage &#038; Sea Salt",
+"slug": "jo-malone-wood-sage-sea-salt",
+"type": "simple",
+"sku": "93",
+"description": "<p>Морська сіль, яка відчувається протягом усього звучання, зачарує вас та перенесе на райські острови насолоди.</p>\n<p>Але! Це не монотонна композиція — шавлія додає свіжості аромату, а грейпфрут із амброю створюють відчуття повноцінної складної композиції.</p>",
+"short_description": "",
+"price": 95.0,
+"regular_price": 95.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 123,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Jo Malone",
+"slug": "jo-malone"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Морські",
+"slug": "morski"
+},
+{
+"name": "Солоні",
+"slug": "soloni"
+},
+{
+"name": "Фужерні",
+"slug": "fuzherni"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDC (одеколон)",
+"slug": "edc-odekolon"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/09/jo-malone-wood-sage-sea-salt-1.jpg",
+"rating": "4.25",
+"review_count": 4,
+"image_file": "jo-malone-wood-sage-sea-salt.webp"
+},
+{
+"id": 21924,
+"name": "Juliette has a gun Not a perfume",
+"slug": "juliette-has-a-gun-not-a-perfume",
+"type": "simple",
+"sku": "34",
+"description": "<p>Несподівано? Незрозуміло? Цікаво? Розповідаю детальніше.</p>\n<p>Not A Perfume від Juliette Has A Gun — це «не парфум», як заявляє виробник.</p>\n<p>У ньому немає ні фруктових, ні східних, ні квіткових нот. Лише один ключовий компонент — цеталокс.</p>\n<p>Аромат розкривається тільки на шкірі. З флакона ви можете його майже не почути, але щойно нанесете — починається магія.</p>\n<p>На комусь він звучить деревно-кремово, на комусь — ніжним, пухнастим мускусом.</p>\n<p>Це саме той випадок, коли хочеться перепочити від класичної парфумерії, але все одно хочеться чимось пахнути.</p>\n<p>Сподобається тим, хто любить свіжі, ненавʼязливі аромати, хоче спробувати щось нове або часто втомлюється від насиченої парфумерії.</p>",
+"short_description": "",
+"price": 60.0,
+"regular_price": 60.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 100,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Juliette Has A Gun",
+"slug": "juliette-has-a-gun"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Мускусні",
+"slug": "muskusni"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/09/juliette-has-a-gun-not-a-perfume-1.jpg",
+"rating": "5.00",
+"review_count": 2,
+"image_file": "juliette-has-a-gun-not-a-perfume.webp"
+},
+{
+"id": 21923,
+"name": "Juliette has a gun Not a perfume Superdose",
+"slug": "juliette-has-a-gun-not-a-perfume-superdose",
+"type": "simple",
+"sku": "159",
+"description": "<p>Чиста шкіра з посиленим мускусом. Пахне «ви, але краще». Мінімалістичний, але помітний.</p>",
+"short_description": "",
+"price": 65.0,
+"regular_price": 65.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 84,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Juliette Has A Gun",
+"slug": "juliette-has-a-gun"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Мускусні",
+"slug": "muskusni"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/08/juliette-has-a-gun-not-a-perfume-superdose.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "juliette-has-a-gun-not-a-perfume-superdose.webp"
+},
+{
+"id": 21815,
+"name": "Nasomatto Silver Musk",
+"slug": "nasomatto-silver-musk",
+"type": "simple",
+"sku": "340",
+"description": "<p>Silver Musk — аромат чистоти й того самого прованського мила, яке кладуть у шафу з білизною, щоб вона пахла ще чистіше.</p>",
+"short_description": "",
+"price": 250.0,
+"regular_price": 250.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 16,
+"min": 3,
+"max": 16,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Nasomatto",
+"slug": "nasomatto"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Мускусні",
+"slug": "muskusni"
+},
+{
+"name": "Пудрові",
+"slug": "pudrovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/09/Nasomatto-Silver-Musk.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "nasomatto-silver-musk.webp"
+},
+{
+"id": 23089,
+"name": "Zarkoperfume Molecule 234.38",
+"slug": "zarkoperfume-molecule-234-38",
+"type": "simple",
+"sku": "362",
+"description": "<p>Ніжний аромат затишку та турботи.</p>\n<p>Той момент, коли хочеться поставити всі свої плани та швидкий темп життя на паузу.</p>\n<p>Хочеться аромату доглянутості, але без різких нот та яскравих акордів. Є базові речі у гардеробі, а це — базовий аромат на вашій парфумерній поличці.</p>",
+"short_description": "",
+"price": 60.0,
+"regular_price": 60.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 83,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Zarkoperfume",
+"slug": "zarkoperfume"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Аромат чистоти",
+"slug": "aromat-chystoty"
+},
+{
+"name": "Мускусні",
+"slug": "muskusni"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/09/zarkoperfume-molecule-234.38-3.jpg",
+"rating": "3.00",
+"review_count": 1,
+"image_file": "zarkoperfume-molecule-234-38.webp"
+},
+{
+"id": 75528,
+"name": "Maison Crivelli Tobacco Carnaval",
+"slug": "maison-crivelli-tobacco-carnaval",
+"type": "simple",
+"sku": "2050",
+"description": "<p>Уявіть бразильський карнавал, де серед яскравих костюмів і гучної музики хтось відкриває коробку дорогих сигар. У повітрі змішуються густий аромат тютюнового листя, солодкуваті прянощі та легкий дим.<br />\nАле цей тютюн зовсім не сухий і не різкий, у ньому є тепла, майже медова солодкість, яка нагадує тютюн, просочений ароматним сиропом. Деревні та смолисті відтінки додають глибини.<br />\nНаче солодкий аромат сигарного тютюну, змішаний із прянощами й теплим димом посеред нічного карнавалу</p>",
+"short_description": "",
+"price": 320.0,
+"regular_price": 320.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 50,
+"min": 1,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Maison Crivelli",
+"slug": "maison-crivelli"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Димні",
+"slug": "dymni"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Тютюнові",
+"slug": "tiutiunovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/10/maison-crivelli-tobacco-carnaval.png",
+"rating": "0",
+"review_count": 0,
+"image_file": "maison-crivelli-tobacco-carnaval.webp"
+},
+{
+"id": 74788,
+"name": "Moschino Toy 2 Yummy",
+"slug": "moschino-toy-2-yummy",
+"type": "simple",
+"sku": "2016",
+"description": "",
+"short_description": "",
+"price": 60.0,
+"regular_price": 60.0,
+"sale_price": null,
+"in_stock": false,
+"stock": null,
+"min": 3,
+"max": 17,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Moschino",
+"slug": "moschino"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Свіжі",
+"slug": "svizhi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/10/moschino-toy-2-yummy.jpg",
+"rating": "5.00",
+"review_count": 1,
+"image_file": "moschino-toy-2-yummy.webp"
+},
+{
+"id": 74328,
+"name": "Sikelia Nikos",
+"slug": "sikelia-nikos",
+"type": "simple",
+"sku": "2000",
+"description": "",
+"short_description": "",
+"price": 80.0,
+"regular_price": 80.0,
+"sale_price": null,
+"in_stock": false,
+"stock": null,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Sikelia",
+"slug": "sikelia"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Ароматичний",
+"slug": "aromatychnyj"
+},
+{
+"name": "Морські",
+"slug": "morski"
+},
+{
+"name": "Солоні",
+"slug": "soloni"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/10/sikelia-nikos.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "sikelia-nikos.webp"
+},
+{
+"id": 73311,
+"name": "Louis Vuitton Stellar Times",
+"slug": "louis-vuitton-stellar-times",
+"type": "simple",
+"sku": "1958",
+"description": "",
+"short_description": "",
+"price": 500.0,
+"regular_price": 500.0,
+"sale_price": null,
+"in_stock": false,
+"stock": null,
+"min": 1,
+"max": 5,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Louis Vuitton",
+"slug": "louis-vuitton"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Білоквіткові",
+"slug": "bilokvitkovi"
+},
+{
+"name": "Бурштин",
+"slug": "burshtyn"
+},
+{
+"name": "Деревинні",
+"slug": "derevynni"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/09/louis-vuitton-stellar-times-1.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "louis-vuitton-stellar-times.webp"
+},
+{
+"id": 70403,
+"name": "Dolce &#038; Gabbana My Devotion EDP Intense",
+"slug": "dolce-gabbana-my-devotion-edp-intense",
+"type": "simple",
+"sku": "1881",
+"description": "",
+"short_description": "",
+"price": 75.0,
+"regular_price": 75.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 16,
+"min": 3,
+"max": 16,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Dolce &amp; Gabbana",
+"slug": "dolce-amp-gabbana"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Ванільні",
+"slug": "vanilni"
+},
+{
+"name": "Квіткові",
+"slug": "kvitkovi"
+},
+{
+"name": "Свіжі",
+"slug": "svizhi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/08/gabbana-my-devotion-edp-intense.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "dolce-gabbana-my-devotion-edp-intense.webp"
+},
+{
+"id": 60954,
+"name": "Karl Lagerfeld bois De Yuzu",
+"slug": "karl-lagerfeld-bois-de-yuzu",
+"type": "simple",
+"sku": "1639",
+"description": "<p>Свіжий юдзу з легкою гірчинкою цедри одразу дає чистий, енергійний старт. Далі — мʼяке дерево й трохи пряності, які додають глибини. Пахне як холодний душ у спеку: чисто, бадьоро й без зайвої солодкості. Дуже універсальний.</p>",
+"short_description": "",
+"price": 30.0,
+"regular_price": 30.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 7,
+"min": 3,
+"max": 7,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Чоловічі",
+"slug": "cholovichi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Karl Lagerfeld",
+"slug": "karl-lagerfeld"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Зелені",
+"slug": "zeleni"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDT (туалетна вода)",
+"slug": "edt-tualetna-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/02/karl-lagerfeld-bois-de-yuzu.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "karl-lagerfeld-bois-de-yuzu.webp"
+},
+{
+"id": 59285,
+"name": "Chanel Coco Mademoiselle edp",
+"slug": "chanel-coco-mademoiselle-edp",
+"type": "simple",
+"sku": "1589",
+"description": "<p>Свіжий апельсин із ніжною трояндою та чистим пачулі.</p>\n<p>Пахне дорогим парфумом, який упізнають із першого подиху. Стриманий, жіночний, з характером — як біла блуза й впевнена усмішка.</p>",
+"short_description": "",
+"price": 130.0,
+"regular_price": 130.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 51,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Chanel",
+"slug": "chanel"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Пачулієві",
+"slug": "pachuliievi"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/02/chanel-coco-mademoiselle-edp.jpg",
+"rating": "5.00",
+"review_count": 1,
+"image_file": "chanel-coco-mademoiselle-edp.webp"
+},
+{
+"id": 39654,
+"name": "Chanel Chance Eau Splendide",
+"slug": "chanel-chance-eau-splendide",
+"type": "simple",
+"sku": "1223",
+"description": "<p>Кислинка малини, квіткова герань і мʼякий пудровий ірис.</p>\n<p>Аромат світлий та грайливий на старті, але кедр із білим мускусом залишають у ньому спокійну, трохи загадкову базу.</p>",
+"short_description": "",
+"price": 130.0,
+"regular_price": 130.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 100,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Chanel",
+"slug": "chanel"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Пудрові",
+"slug": "pudrovi"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Трояндові",
+"slug": "troiandovi"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/05/chanel-chance-eau-splendide-1.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "chanel-chance-eau-splendide.webp"
+},
+{
+"id": 28892,
+"name": "Carolina Herrera Good Girl Supreme",
+"slug": "carolina-herrera-good-girl-supreme",
+"type": "simple",
+"sku": "1063",
+"description": "<p>Good Girl Supreme — лісові ягоди й жасмин, яскраві боби тонка та збиті вершки.</p>",
+"short_description": "",
+"price": 80.0,
+"regular_price": 80.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 3,
+"min": 3,
+"max": 3,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Carolina Herrera",
+"slug": "carolina-herrera"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Білоквіткові",
+"slug": "bilokvitkovi"
+},
+{
+"name": "Ванільні",
+"slug": "vanilni"
+},
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+},
+{
+"name": "Фужерні",
+"slug": "fuzherni"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/03/carolina-herrera-good-girl-supreme.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "carolina-herrera-good-girl-supreme.webp"
+},
+{
+"id": 26984,
+"name": "Chanel Bleu de Chanel (ЗАЛИШОК 9 мл)",
+"slug": "chanel-bleu-de-chanel-zalyshok-15-ml",
+"type": "simple",
+"sku": "833",
+"description": "<p>Bleu de Chanel — це саме той аромат, згадка про який одразу викликає асоціацію «ЦЕ БАЗА». Цитрусовий старт згодом розкривається імбирними нотами й акватикою — морським звучанням.</p>\n<p>Легка деревина, а потім шлейф із ладаном — трішки легкого димку. Ніби ви десь біля океану й відчуваєте той самий прохолодний потік повітря над морськими хвилями, а в руках цитрусовий коктейль. Сприймається як аромат догляду для чоловіків.</p>",
+"short_description": "",
+"price": 1080.0,
+"regular_price": 1080.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 1,
+"min": 1,
+"max": 1,
+"categories": [],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Чоловічі",
+"slug": "cholovichi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Chanel",
+"slug": "chanel"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Фужерні",
+"slug": "fuzherni"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDT (туалетна вода)",
+"slug": "edt-tualetna-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/09/Chanel-Bleu-de-Chanel.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "chanel-bleu-de-chanel-zalyshok-15-ml.webp"
+},
+{
+"id": 23055,
+"name": "Tom Ford Lost Cherry",
+"slug": "tom-ford-lost-cherry",
+"type": "simple",
+"sku": "78",
+"description": "<p>НАЙСОКОВИТІША І НАЙБАЖАНІША ВИШНЯ В ПАРФУМЕРІЇ.</p>\n<p>Відкриваю розпив! Дуже насичена й концентрована стигла вишня, як вишневий сік. Стигла вишня, яка злегка потріскалася, акорд мигдалю та лікер — хіба це не ідеальне поєднання?</p>\n<p>Розкішна та багатогранна база грає різними переливами. Для когось це ідеальна, зовсім не нудотна начинка цукерок «Лікерна вишня». Хтось відчуває свіжозірвані ягоди. Дівчатка, шлейф дуже помітний!</p>\n<p>Дуже шлейфовий і стійкий аромат. Що вже багато про нього говорити? Його потрібно пробувати!</p>",
+"short_description": "",
+"price": 180.0,
+"regular_price": 180.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 62,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Tom Ford",
+"slug": "tom-ford"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Вишневі",
+"slug": "vyshnevi"
+},
+{
+"name": "Горіхові",
+"slug": "horikhovi"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/09/Tom-Ford-Lost-Cherry.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "tom-ford-lost-cherry.webp"
+},
+{
+"id": 21882,
+"name": "Maison Francis Kurkdjian Baccarat Rouge 540",
+"slug": "maison-francis-kurkdjian-baccarat-rouge-540",
+"type": "simple",
+"sku": "103",
+"description": "<p>Чарівне чаклунське зілля, яке викликає неймовірні емоції! Чому стільки неоднозначних відгуків?</p>\n<p>Що то за загадка? А я скажу так: це один із критеріїв успішних ароматів. Адже він настільки багатогранний, що кожен знаходить у ньому щось своє. Рекомендую тестувати його у різні пори року й починати з мінімального дозування (1 розпилення). Повірте, ви можете поринути у стихію нот: цукрова полуниця, ягоди, карамельні півники, шляхетна деревина зі смолою та крапелькою стерильності. Яким він буде для вас? Невідомо. Але пробувати треба — не дарма про нього стільки говорять.</p>",
+"short_description": "",
+"price": 190.0,
+"regular_price": 190.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 157,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Maison Francis Kurkdjian",
+"slug": "maison-francis-kurkdjian"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/09/Maison-Francis-Kurkdjian-Baccarat-Rouge-540.jpg",
+"rating": "5.00",
+"review_count": 1,
+"image_file": "maison-francis-kurkdjian-baccarat-rouge-540.webp"
+},
+{
+"id": 74554,
+"name": "Moschino Toy Boy 2",
+"slug": "moschino-toy-boy-2",
+"type": "simple",
+"sku": "2006",
+"description": "",
+"short_description": "",
+"price": 50.0,
+"regular_price": 50.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 89,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Чоловічі",
+"slug": "cholovichi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Moschino",
+"slug": "moschino"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Свіжі",
+"slug": "svizhi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/10/moschino-toy-boy-2.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "moschino-toy-boy-2.webp"
+},
+{
+"id": 74235,
+"name": "Fugazzi Nicocello",
+"slug": "fugazzi-nicocello",
+"type": "simple",
+"sku": "1990",
+"description": "<p>Пахне справжнім італійським лімончелло, який щойно дістали з морозилки й розлили в маленькі крижані чарки. Тут стільки соковитого лимона, ніби його шкірку натерли прямо над склянкою. Червоний апельсин додає солодкого соку, бергамот &#8211; приємної гірчинки, а ананас робить аромат ще фруктовішим.<br />\nЧорний перець злегка пощипує ніс, а деревні ноти залишають сухий, теплий шлейф.<br />\nЦе не лимонний пиріг і не солодка цукерка, а саме італійський лімончелло: яскравий, терпкий, цитрусовий, із характерною гірчинкою лимонної цедри.</p>",
+"short_description": "",
+"price": 190.0,
+"regular_price": 190.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 48,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Fugazzi",
+"slug": "fugazzi"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Свіжі",
+"slug": "svizhi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/09/fugazzi-nicocello-2.jpg",
+"rating": "4.00",
+"review_count": 1,
+"image_file": "fugazzi-nicocello.webp"
+},
+{
+"id": 74203,
+"name": "Gritti Yasuni Amber",
+"slug": "gritti-yasuni-amber",
+"type": "simple",
+"sku": "1988",
+"description": "<p>Пахне апельсиновою цедрою, яку занурили в густий мед, а поруч залишили коробку ароматного тютюну. Апельсин тут соковитий, із легкою гірчинкою, а мускатний горіх додає пряності, ніби до гарячого напою щойно натерли дрібку спецій.<br />\nТютюн теплий, трохи солодкуватий, а амбра нагадує густу золотисту смолу. Ваніль і карамель пом’якшують аромат, а кедр і легкий дим залишають відчуття тліючої деревини.<br />\nНаче карамелізована апельсинова шкірка, медовий тютюн і ваніль біля каміна.</p>",
+"short_description": "",
+"price": 180.0,
+"regular_price": 180.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 71,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Gritti",
+"slug": "gritti"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Свіжі",
+"slug": "svizhi"
+},
+{
+"name": "Тютюнові",
+"slug": "tiutiunovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/09/gritti-yasuni-amber.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "gritti-yasuni-amber.webp"
+},
+{
+"id": 70923,
+"name": "New Notes Pomelo Malindi",
+"slug": "new-notes-pomelo-malindi",
+"type": "simple",
+"sku": "1914",
+"description": "<p>Це той запах, коли чистиш великий соковитий помело, і цитрусовий сік бризкає прямо на пальці. Помело тут терпке, з легкою грейпфрутовою гірчинкою, а юзу, лайм і лимон роблять його ще яскравішим, майже як дуже холодний цитрусовий тонік із купою льоду.</p>\n<p>М’ята додає прохолоди, коріандр і мускатний горіх &#8211; легкої пряності, а жасмин та апельсиновий цвіт трохи пом’якшують цю цитрусову кислоту. Наприкінці залишається суха деревина, білий мускус і амбра. Соковитий, терпкий, холодний цитрус, точно не солодкий лимонад</p>",
+"short_description": "",
+"price": 220.0,
+"regular_price": 220.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 28,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "New Notes",
+"slug": "new-notes"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Зелені",
+"slug": "zeleni"
+},
+{
+"name": "Свіжі",
+"slug": "svizhi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/08/new-notes-pomelo-malindi.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "new-notes-pomelo-malindi.webp"
+},
+{
+"id": 70720,
+"name": "Ruslan Baginskiy Grain de Sel",
+"slug": "ruslan-baginskiy-grain-de-sel",
+"type": "simple",
+"sku": "1901",
+"description": "",
+"short_description": "",
+"price": 280.0,
+"regular_price": 280.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 27,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Ruslan Baginskiy",
+"slug": "ruslan-baginskiy"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Зелені",
+"slug": "zeleni"
+},
+{
+"name": "Свіжі",
+"slug": "svizhi"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/08/ruslan-baginskiy-grain-de-sel-1.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "ruslan-baginskiy-grain-de-sel.webp"
+},
+{
+"id": 75989,
+"name": "Hormone Paris This is Not Oxytocin",
+"slug": "hormone-paris-this-is-not-oxytocin",
+"type": "simple",
+"sku": "2067",
+"description": "",
+"short_description": "",
+"price": 120.0,
+"regular_price": 120.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 100,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Hormone Paris",
+"slug": "hormone-paris"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Мускусні",
+"slug": "muskusni"
+},
+{
+"name": "Пудрові",
+"slug": "pudrovi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Parfum (парфум)",
+"slug": "parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/11/hormone-paris-this-is-not-oxytocin.png",
+"rating": "0",
+"review_count": 0,
+"image_file": "hormone-paris-this-is-not-oxytocin.webp"
+},
+{
+"id": 75976,
+"name": "Dior Homme Cologne",
+"slug": "dior-homme-cologne",
+"type": "simple",
+"sku": "2064",
+"description": "",
+"short_description": "",
+"price": 80.0,
+"regular_price": 80.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 125,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Чоловічі",
+"slug": "cholovichi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Dior",
+"slug": "dior"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Мускусні",
+"slug": "muskusni"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDC (одеколон)",
+"slug": "edc-odekolon"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/11/dior-homme-cologne.png",
+"rating": "0",
+"review_count": 0,
+"image_file": "dior-homme-cologne.webp"
+},
+{
+"id": 75900,
+"name": "Borntostandout Cola Addict",
+"slug": "borntostandout-cola-addict",
+"type": "simple",
+"sku": "2063",
+"description": "",
+"short_description": "",
+"price": 240.0,
+"regular_price": 240.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 50,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Borntostandout",
+"slug": "borntostandout"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/11/borntostandout-cola-addict.png",
+"rating": "0",
+"review_count": 0,
+"image_file": "borntostandout-cola-addict.webp"
+},
+{
+"id": 74969,
+"name": "Guerlain L’Homme Ideal edt",
+"slug": "guerlain-lhomme-ideal-edt",
+"type": "simple",
+"sku": "2025",
+"description": "",
+"short_description": "",
+"price": 55.0,
+"regular_price": 55.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 92,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Чоловічі",
+"slug": "cholovichi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Guerlain",
+"slug": "guerlain"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Ароматичний",
+"slug": "aromatychnyj"
+},
+{
+"name": "Мигдальний",
+"slug": "myhdalnyj"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDT (туалетна вода)",
+"slug": "edt-tualetna-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/10/guerlain-lhomme-ideal-edt.png",
+"rating": "0",
+"review_count": 0,
+"image_file": "guerlain-lhomme-ideal-edt.webp"
+},
+{
+"id": 74324,
+"name": "Carolina Herrera Cedar Chic",
+"slug": "carolina-herrera-cedar-chic",
+"type": "simple",
+"sku": "1999",
+"description": "<p>Пахне так, ніби щойно випрасували свіжу бавовняну сорочку, а поруч стоїть букет квітів апельсинового дерева. У повітрі відчувається запах нагрітої праскою тканини, ніжного квіткового мила й легкої цитрусової свіжості.<br />\nАльдегіди створюють ту саму кришталеву чистоту, білий мускус додає м’якої кремовості, а кедр- запаху світлої, сухої деревини.<br />\nАромат трохи пудровий, але зовсім не важкий. Наче поєднання свіжовипрасуваної бавовни, дорогого кремового мила та ніжних білих квітів</p>",
+"short_description": "",
+"price": 280.0,
+"regular_price": 280.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 55,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Carolina Herrera",
+"slug": "carolina-herrera"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Альдегідні",
+"slug": "aldehidni"
+},
+{
+"name": "Мускусні",
+"slug": "muskusni"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/10/carolina-herrera-cedar-chic.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "carolina-herrera-cedar-chic.webp"
+},
+{
+"id": 75768,
+"name": "Sora Dora Jany",
+"slug": "sora-dora-jany",
+"type": "simple",
+"sku": "2060",
+"description": "<p>Sora Dora Jany — аромат свіжоспеченого яблучного пирога з хрусткою золотистою скоринкою. Уявіть теплі яблука, присипані корицею, соковиті персики й абрикоси, які запікаються разом із листковим тістом. Далі з’являється густа карамель, вершкова ваніль і трохи смажених горіхів.</p>\n<p>Це не просто солодкий аромат, а дуже реалістична кондитерська історія: маслянисте тісто, карамелізовані фрукти та тепла випічка, яку щойно дістали з духовки.</p>",
+"short_description": "",
+"price": 280.0,
+"regular_price": 280.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 41,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Sora Dora",
+"slug": "sora-dora"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Горіхові",
+"slug": "horikhovi"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/11/soda-dora-jany.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "sora-dora-jany.webp"
+},
+{
+"id": 75739,
+"name": "Carolina Herrera La Bomba Intensa",
+"slug": "carolina-herrera-la-bomba-intensa",
+"type": "simple",
+"sku": "2056",
+"description": "<p>Уявіть жменю стиглої малини, полуниці , вишні та лісових ягід, які розчавили ложкою, щоб вони пустили густий, кисло-солодкий сік. До них додали кілька крапель бергамоту і вийшло щось схоже на насичений ягідний сироп із цитрусовою кислинкою.<br />\nАле це не просто фруктовий аромат: венесуельська орхідея додає ніжної кремової квітковості, а апельсиновий цвіт робить композицію м’якшою.<br />\nЧервона амбра залишає густе солодкувате тепло, а пачулі &#8211; легку деревну терпкість.<br />\nНаче малиновий коктейль із квітковим сиропом: соковитий, насичений, солодкий і дуже шлейфовий</p>",
+"short_description": "",
+"price": 150.0,
+"regular_price": 150.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 57,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Carolina Herrera",
+"slug": "carolina-herrera"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/11/carolina-herrera-la-bomba-intensa.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "carolina-herrera-la-bomba-intensa.webp"
+},
+{
+"id": 75479,
+"name": "Jean Paul Gaultier Le Beau Narcisse",
+"slug": "jean-paul-gaultier-le-beau-narcisse",
+"type": "simple",
+"sku": "2046",
+"description": "",
+"short_description": "",
+"price": 70.0,
+"regular_price": 70.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 60,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Чоловічі",
+"slug": "cholovichi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Jean Paul Gaultier",
+"slug": "jean-paul"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Ванільні",
+"slug": "vanilni"
+},
+{
+"name": "Мускусні",
+"slug": "muskusni"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/10/jean-paul-gaultier-le-beau-narcisse.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "jean-paul-gaultier-le-beau-narcisse.webp"
+},
+{
+"id": 74784,
+"name": "Moschino Toy 2 Gummy",
+"slug": "moschino-toy-2-gummy",
+"type": "simple",
+"sku": "2015",
+"description": "",
+"short_description": "",
+"price": 60.0,
+"regular_price": 60.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 19,
+"min": 3,
+"max": 19,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Moschino",
+"slug": "moschino"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Горіхові",
+"slug": "horikhovi"
+},
+{
+"name": "Лактонний",
+"slug": "laktonnyj"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/10/moschino-toy-2-gummy.jpg",
+"rating": "5.00",
+"review_count": 1,
+"image_file": "moschino-toy-2-gummy.webp"
+},
+{
+"id": 74568,
+"name": "Kilian Paris Pina Paraiso",
+"slug": "kilian-paris-pina-paraiso",
+"type": "simple",
+"sku": "2009",
+"description": "<p>Pina Paradiso — тропічний вайб, соковиті фрукти й відчуття відпустки.</p>",
+"short_description": "",
+"price": 200.0,
+"regular_price": 200.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 22,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Kilian",
+"slug": "kilian"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Ванільні",
+"slug": "vanilni"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Тропічні",
+"slug": "tropichni"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/10/kilian-paris-pina-paraiso.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "kilian-paris-pina-paraiso.webp"
+},
+{
+"id": 73980,
+"name": "Lengling Glorya Day",
+"slug": "lengling-glorya-day",
+"type": "simple",
+"sku": "1983",
+"description": "<p>Малиновий макарон із ніжною трояндовою начинкою, карамеллю та легкою шоколадною гірчинкою</p>",
+"short_description": "",
+"price": 200.0,
+"regular_price": 200.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 20,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Lengling",
+"slug": "lengling"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Ванільні",
+"slug": "vanilni"
+},
+{
+"name": "Пудрові",
+"slug": "pudrovi"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Parfum (парфум)",
+"slug": "parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/09/lengling-glorya-day.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "lengling-glorya-day.webp"
+},
+{
+"id": 73966,
+"name": "Dolce &amp; Gabbana Your Devotion edp Intense",
+"slug": "dolce-gabbana-your-devotion-edp-intense",
+"type": "simple",
+"sku": "1981",
+"description": "<p>Пахне стиглою медовою динею, яку щойно розрізали навпіл, а поруч очистили соковитий мандарин. Диня тут солодка, але не приторна, з приємною фруктовою свіжістю. А далі з’являється найцікавіше , ніжне ванільне молоко, ніби диню змішали з вершковим молочним коктейлем або морозивом<br />\nГарденія та апельсиновий цвіт додають м’якої квітковості, а сандал робить аромат ще кремовішим.<br />\nНаче молочний коктейль зі стиглої дині, ванілі та краплі мандаринового соку : ніжний, соковитий і вершковий</p>",
+"short_description": "",
+"price": 80.0,
+"regular_price": 80.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 48,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Dolce &amp; Gabbana",
+"slug": "dolce-amp-gabbana"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Білоквіткові",
+"slug": "bilokvitkovi"
+},
+{
+"name": "Ванільні",
+"slug": "vanilni"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/09/dolce-gabbana-your-devotion-edp-intense.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "dolce-gabbana-your-devotion-edp-intense.webp"
+},
+{
+"id": 73441,
+"name": "Montale Vanille Absolu",
+"slug": "montale-vanille-absolu",
+"type": "simple",
+"sku": "1963",
+"description": "",
+"short_description": "",
+"price": 55.0,
+"regular_price": 55.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 85,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Montale",
+"slug": "montale"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Ванільні",
+"slug": "vanilni"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Пудрові",
+"slug": "pudrovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/09/montale-vanille-absolu.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "montale-vanille-absolu.webp"
+},
+{
+"id": 73136,
+"name": "Matiere Premiere Vanilla Powder",
+"slug": "matiere-premiere-vanilla-powder",
+"type": "simple",
+"sku": "1954",
+"description": "<p>Пахне ванільною пудрою, яку змішали із сухою кокосовою стружкою та теплим молоком. Але це зовсім не ванільне тістечко, аромат сухий, дуже пудровий і місцями навіть прохолодний. Кокос тут не «Баунті», а скоріше сухе кокосове молоко в порошку.</p>\n<p>Пало санто додає запах світлої деревини, яку трохи нагріли або підпалили, а мускус робить усе це дуже шлейфовим. Наче хмарка солодкої ванільно-кокосової пудри з молочною м’якістю та сухою деревиною.</p>",
+"short_description": "",
+"price": 200.0,
+"regular_price": 200.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 61,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Matiere Premiere",
+"slug": "matiere-premiere"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Ванільні",
+"slug": "vanilni"
+},
+{
+"name": "Мускусні",
+"slug": "muskusni"
+},
+{
+"name": "Порошкоподібний",
+"slug": "poroshkopodibnyj"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/08/matiere-premiere-vanilla-powder.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "matiere-premiere-vanilla-powder.webp"
+},
+{
+"id": 75984,
+"name": "Hormone Paris This is Not Testosterone",
+"slug": "hormone-paris-this-is-not-testosterone",
+"type": "simple",
+"sku": "2066",
+"description": "",
+"short_description": "",
+"price": 120.0,
+"regular_price": 120.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 100,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Hormone Paris",
+"slug": "hormone-paris"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Parfum (парфум)",
+"slug": "parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/11/hormone-paris-this-is-not-testosterone.png",
+"rating": "0",
+"review_count": 0,
+"image_file": "hormone-paris-this-is-not-testosterone.webp"
+},
+{
+"id": 75756,
+"name": "Genyum Sandal Relax",
+"slug": "genyum-sandal-relax",
+"type": "simple",
+"sku": "2059",
+"description": "",
+"short_description": "",
+"price": 210.0,
+"regular_price": 210.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 40,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Genyum",
+"slug": "genyum"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Горіхові",
+"slug": "horikhovi"
+},
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Пудрові",
+"slug": "pudrovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/11/genyum-sandal-relax.png",
+"rating": "0",
+"review_count": 0,
+"image_file": "genyum-sandal-relax.webp"
+},
+{
+"id": 75752,
+"name": "Genyum Wood Ecstasy",
+"slug": "genyum-wood-ecstasy",
+"type": "simple",
+"sku": "2058",
+"description": "",
+"short_description": "",
+"price": 210.0,
+"regular_price": 210.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 40,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Genyum",
+"slug": "genyum"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Удові",
+"slug": "udovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/11/genyum-wood-ecstasy-3.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "genyum-wood-ecstasy.webp"
+},
+{
+"id": 75523,
+"name": "Maison Crivelli Papyrus Moleculaire",
+"slug": "maison-crivelli-papyrus-moleculaire",
+"type": "simple",
+"sku": "2049",
+"description": "<p>Свіжозрізані стебла папірусу, які ще зберігають вологу, суха деревина та легкий запах чорного перцю. Тут є незвичний контраст: прохолодна зелень і водночас тепле, майже запилене дерево.<br />\nПапірус нагадує старий папір і сухі трави, а сандал додає м’якої вершковості. Чорний перець трохи пощипує ніс, а тютюнові відтінки роблять аромат глибшим і теплішим.<br />\nНаче відкрили стару дерев’яну скриню, у якій зберігали сувої папірусу, сухі трави та прянощі. Стриманий, деревний, трохи димний і зовсім не солодкий.</p>",
+"short_description": "",
+"price": 150.0,
+"regular_price": 150.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 45,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Maison Crivelli",
+"slug": "maison-crivelli"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Ароматичний",
+"slug": "aromatychnyj"
+},
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/10/maison-crivelli-papyrus-moleculaire.png",
+"rating": "0",
+"review_count": 0,
+"image_file": "maison-crivelli-papyrus-moleculaire.webp"
+},
+{
+"id": 75067,
+"name": "Fugazzi Angel Dust Extrait",
+"slug": "fugazzi-angel-dust-extrait",
+"type": "simple",
+"sku": "2031",
+"description": "",
+"short_description": "",
+"price": 200.0,
+"regular_price": 200.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 97,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Fugazzi",
+"slug": "fugazzi"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Мускусні",
+"slug": "muskusni"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/10/fugazzi-angel-dust-extrait.png",
+"rating": "0",
+"review_count": 0,
+"image_file": "fugazzi-angel-dust-extrait.webp"
+},
+{
+"id": 75002,
+"name": "Creed Iris Debonair",
+"slug": "creed-iris-debonair",
+"type": "simple",
+"sku": "2027",
+"description": "<p>Уявіть старовинний туалетний столик, на якому лежить оксамитова пудрениця, улюблена помада та кілька стиглих плодів інжиру.<br />\nІрис тут ніжний, пудровий, із легкою вершковістю, ніби аромат дорогої косметики. Інжир додає м’якої фруктової солодкості, а кардамон і рожевий перець- пряної гостроти.<br />\nПоруч відчувається свіжа лаванда, трохи трав’яної гірчинки полину та прохолодна зелень фіалки. Усе це огортає суха амброва деревина.<br />\nНаче дорога пудра з ароматом інжиру, лаванди та прянощів : витончено, незвично й зовсім не солодко.</p>",
+"short_description": "",
+"price": 260.0,
+"regular_price": 260.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 23,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Creed",
+"slug": "creed"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Ароматичний",
+"slug": "aromatychnyj"
+},
+{
+"name": "Деревинні",
+"slug": "derevynni"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/10/creed-iris-debonair.png",
+"rating": "0",
+"review_count": 0,
+"image_file": "creed-iris-debonair.webp"
+},
+{
+"id": 70989,
+"name": "Marc Jacobs Perfect EDT",
+"slug": "marc-jacobs-perfect-edt",
+"type": "simple",
+"sku": "1923",
+"description": "",
+"short_description": "",
+"price": 50.0,
+"regular_price": 50.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 61,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Marc Jacobs",
+"slug": "marc-jacobs"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Зелені",
+"slug": "zeleni"
+},
+{
+"name": "Квіткові",
+"slug": "kvitkovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDT (туалетна вода)",
+"slug": "edt-tualetna-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/08/marc-jacobs-perfect-edt.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "marc-jacobs-perfect-edt.webp"
+},
+{
+"id": 70502,
+"name": "Gucci Flora Gorgeous Orchid Intense",
+"slug": "gucci-flora-gorgeous-orchid-intense",
+"type": "simple",
+"sku": "1889",
+"description": "<p>Це аромат стиглого літа, коли на столі стоїть тарілка з соковитими фруктами, а поруч великий букет солодких квітів. Ваніль тут нагадує підталий пломбір або ніжний крем, а орхідея додає густого, майже тропічного квіткового запаху.</p>\n<p>Є яскрава фруктова соковитість, ніби солодкий банановий нектар із краплею цитруса. Усе разом звучить дуже жіночно, сонячно й насичено, як яскрава сукня, відпустка і солодкий фруктовий коктейль у руках</p>",
+"short_description": "",
+"price": 95.0,
+"regular_price": 95.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 42,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "GUCCI",
+"slug": "gucci"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Какао",
+"slug": "kakao"
+},
+{
+"name": "Квіткові",
+"slug": "kvitkovi"
+},
+{
+"name": "Озонові",
+"slug": "ozonovi"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/08/gucci-flora-gorgeous-orchid-intense-1.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "gucci-flora-gorgeous-orchid-intense.webp"
+},
+{
+"id": 70485,
+"name": "Balmain Destin",
+"slug": "balmain-destin",
+"type": "simple",
+"sku": "1885",
+"description": "",
+"short_description": "",
+"price": 140.0,
+"regular_price": 140.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 38,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Balmain",
+"slug": "balmain"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Квіткові",
+"slug": "kvitkovi"
+},
+{
+"name": "Мускусні",
+"slug": "muskusni"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/08/balmain-destin.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "balmain-destin.webp"
+},
+{
+"id": 69954,
+"name": "Filippo Sorcinelli Scusami",
+"slug": "filippo-sorcinelli-scusami",
+"type": "simple",
+"sku": "1867",
+"description": "<p>Уявіть дуже стиглі солодкі фрукти: соковита маракуя, м’яка солодкість персика й трохи ягідного сиропу. Поруч великий букет троянд, який робить аромат густішим і яскравішим.<br />\nУсе це нагадує насичений фруктовий коктейль або дорогу цукерку з рідкою фруктовою начинкою. Але аромат не залишається просто солодким: з часом з’являються деревина й легка димність, які додають йому глибини. Дуже соковитий, гучний і насичений, фруктів тут справді багато</p>",
+"short_description": "",
+"price": 180.0,
+"regular_price": 180.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 55,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Filippo Sorcinelli",
+"slug": "filippo-sorcinelli"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Квіткові",
+"slug": "kvitkovi"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/07/filippo-sorcinelli-scusami.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "filippo-sorcinelli-scusami.webp"
+},
+{
+"id": 67990,
+"name": "Byredo La Tulipe",
+"slug": "byredo-la-tulipe",
+"type": "simple",
+"sku": "1854",
+"description": "<p>Перші тюльпани після довгої зими — свіжі, зелені й дуже ніжні.</p>\n<p>Ревінь, цикламен та фрезія додають легкої кислинки, а світла деревина й ветивер залишають чистий, трохи землистий шлейф.</p>",
+"short_description": "",
+"price": 175.0,
+"regular_price": 175.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 48,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Byredo",
+"slug": "byredo"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Зелені",
+"slug": "zeleni"
+},
+{
+"name": "Квіткові",
+"slug": "kvitkovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/07/byredo-la-tulipe.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "byredo-la-tulipe.webp"
+},
+{
+"id": 73976,
+"name": "Lengling Namui",
+"slug": "lengling-namui",
+"type": "simple",
+"sku": "1982",
+"description": "<p>Кокосова помадка, яка нагадує ніжну вершкову начинку цукерок Raffaello.</p>",
+"short_description": "",
+"price": 220.0,
+"regular_price": 220.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 27,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Lengling",
+"slug": "lengling"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Білоквіткові",
+"slug": "bilokvitkovi"
+},
+{
+"name": "Кокосові",
+"slug": "kokosovi"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/09/lengling-namui.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "lengling-namui.webp"
+},
+{
+"id": 73118,
+"name": "Liquides Imaginaires Ame de Fleur",
+"slug": "liquides-imaginaires-ame-de-fleur-les",
+"type": "simple",
+"sku": "1951",
+"description": "<p>Пахне великим букетом білих квітів, який поставили поруч із тарілкою соковитих груш і ніжним вершковим десертом. Тубероза тут густа, солодкувата, майже молочна, а жасмин додає насиченого квіткового аромату. Зелена груша приносить фруктову свіжість, геліотроп м’яку пудровість, а шафран додає легкої пряності.<br />\nКашемірова деревина й амброксан роблять аромат теплим і дуже шлейфовим.<br />\nНаче грушевий чизкейк із вершковим кремом, який їси поруч із величезним букетом тубероз і жасмину. Квітковий, кремовий, насичений і зовсім не тихий.</p>",
+"short_description": "",
+"price": 150.0,
+"regular_price": 150.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 23,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Liquides Imaginaires",
+"slug": "liquides-imaginaires"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Білоквіткові",
+"slug": "bilokvitkovi"
+},
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Тубероза",
+"slug": "tuberoza"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/08/liquides-imaginaires-ame-de-fleur-les.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "liquides-imaginaires-ame-de-fleur-les.webp"
+},
+{
+"id": 72958,
+"name": "Yves Saint Laurent MYSLF EDP",
+"slug": "yves-saint-laurent-myslf-edp",
+"type": "simple",
+"sku": "1949",
+"description": "",
+"short_description": "",
+"price": 90.0,
+"regular_price": 90.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 63,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Чоловічі",
+"slug": "cholovichi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Yves Saint Laurent",
+"slug": "yves-saint-laurent"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Білоквіткові",
+"slug": "bilokvitkovi"
+},
+{
+"name": "Пачулієві",
+"slug": "pachuliievi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/08/yves-saint-laurent-myslf.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "yves-saint-laurent-myslf-edp.webp"
+},
+{
+"id": 70713,
+"name": "Lattafa Afeef",
+"slug": "lattafa-afeef",
+"type": "simple",
+"sku": "1900",
+"description": "",
+"short_description": "",
+"price": 45.0,
+"regular_price": 45.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 53,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Lattafa",
+"slug": "lattafa"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Білоквіткові",
+"slug": "bilokvitkovi"
+},
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/08/lattafa-afeef.jpg",
+"rating": "4.50",
+"review_count": 2,
+"image_file": "lattafa-afeef.webp"
+},
+{
+"id": 69762,
+"name": "Tiziana Terenzi White Fire",
+"slug": "tiziana-terenzi-white-fire",
+"type": "simple",
+"sku": "1856",
+"description": "<p>Пахне морозним ранком, коли виходиш із теплого дому й перший вдих буквально обпалює прохолодою. Тут є запах холодного повітря, зеленого листя й ранкової роси, а трохи згодом м’яка деревина, ніби зайшли в будинок із новими дерев’яними меблями.</p>\n<p>Сандал додає теплої вершковості, а мускус залишає на шкірі відчуття свіжої білої сорочки. Для мене це аромат білого кольору: прохолодний, сухий, трохи деревний і дуже мінімалістичний, без фруктів, десертної солодкості та важких квітів.</p>",
+"short_description": "",
+"price": 80.0,
+"regular_price": 80.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 103,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Tiziana Terenzi",
+"slug": "tiziana-terenzi"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Акватичні",
+"slug": "akvatychni"
+},
+{
+"name": "Білоквіткові",
+"slug": "bilokvitkovi"
+},
+{
+"name": "Мускусні",
+"slug": "muskusni"
+},
+{
+"name": "Пудрові",
+"slug": "pudrovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/07/tiziana-terenzi-white-fire.jpg",
+"rating": "5.00",
+"review_count": 1,
+"image_file": "tiziana-terenzi-white-fire.webp"
+},
+{
+"id": 74563,
+"name": "Kilian Paris Sparkling Royal",
+"slug": "kilian-paris-sparkling-royal",
+"type": "simple",
+"sku": "2008",
+"description": "<p>Sparkling Royal — грайливий, яскравий аромат із настроєм свята та келихом ігристого.</p>",
+"short_description": "",
+"price": 200.0,
+"regular_price": 200.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 34,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Kilian",
+"slug": "kilian"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Ароматичний",
+"slug": "aromatychnyj"
+},
+{
+"name": "Трояндові",
+"slug": "troiandovi"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/10/kilian-paris-sparkling-royal.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "kilian-paris-sparkling-royal.webp"
+},
+{
+"id": 70413,
+"name": "Maison Crivelli Musc Nurasana",
+"slug": "maison-crivelli-musc-nurasana",
+"type": "simple",
+"sku": "1883",
+"description": "<p>Це аромат прохолодного вечора, коли в руках імбирний напій із льодом, а поруч стоїть букет свіжих троянд. Імбир і кардамон дають ту саму пряну гостроту, яка трохи лоскоче ніс, троянда додає м’якої квітковості, а ладан нагадує ароматичну паличку, що щойно згасла. Мускус тут теплий і ніжний, як запах шкіри після крему, а боби тонка залишають легку солодкість. Виходить незвичне поєднання прохолоди, спецій, троянди й теплого мускусу, аромат, який складно сплутати з чимось іншим</p>",
+"short_description": "",
+"price": 300.0,
+"regular_price": 300.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 24,
+"min": 1,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Maison Crivelli",
+"slug": "maison-crivelli"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Мускусні",
+"slug": "muskusni"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Трояндові",
+"slug": "troiandovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/08/maison-crivelli-musc-nurasana.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "maison-crivelli-musc-nurasana.webp"
+},
+{
+"id": 69839,
+"name": "BDK Parfums Bouquet de Hongrie",
+"slug": "bdk-parfums-bouquet-de-hongrie",
+"type": "simple",
+"sku": "1862",
+"description": "<p>Відчуття, ніби зранку відкрили вікно в сад, де все тільки починає квітнути. Повітря свіже, на пелюстках ще залишилися краплі роси, а поруч лежить щойно розрізана груша. Троянда та жасмин тут звучать легко й природно, без важкої солодкості, ніби живі квіти у вазі.<br />\nМускус робить аромат схожим на запах чистої шкіри, а кедр додає відчуття охайності та спокою.<br />\nЦе ніжний, світлий аромат, який більше нагадує доглянуту людину, ніж гучні парфуми</p>",
+"short_description": "",
+"price": 120.0,
+"regular_price": 120.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 43,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "BDK Parfums",
+"slug": "bdk-parfums"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Мускусні",
+"slug": "muskusni"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Трояндові",
+"slug": "troiandovi"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/07/bdk-parfums-bouquet-de-hongrie.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "bdk-parfums-bouquet-de-hongrie.webp"
+},
+{
+"id": 66688,
+"name": "Kajal Kajal",
+"slug": "kajal-kajal",
+"type": "simple",
+"sku": "1820",
+"description": "<p>Пахне так, ніби на туалетному столику стоїть великий букет червоних троянд, поруч розрізали соковитий мандарин, а в кімнаті ще залишився аромат солодкої пудри.<br />\nЦитруси спочатку роблять його яскравим і сонячним, але швидко з’являються троянда та пудровий ірис. Ваніль і боби тонка нагадують теплий ванільний крем, сандал додає м’якої деревної вершковості, а мускус відчуття теплої шкіри. Насичений, жіночний, солодкувато-пудровий аромат із дуже помітною трояндою та ванільним теплом.</p>",
+"short_description": "",
+"price": 100.0,
+"regular_price": 100.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 54,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Kajal",
+"slug": "kajal"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Ванільні",
+"slug": "vanilni"
+},
+{
+"name": "Пудрові",
+"slug": "pudrovi"
+},
+{
+"name": "Трояндові",
+"slug": "troiandovi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/06/kajal-kajal.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "kajal-kajal.webp"
+},
+{
+"id": 65995,
+"name": "Ex Nihilo Lust in Paradise Extrait",
+"slug": "ex-nihilo-lust-in-paradise-extrait",
+"type": "simple",
+"sku": "1796",
+"description": "<p>Соковита чорна смородина з рожевим перцем і червоним імбиром — яскравий старт!</p>\n<p>Далі розкриваються троянда й жасмин, а кедр, мускус та теплі деревні ноти роблять базу щільнішою.</p>",
+"short_description": "",
+"price": 260.0,
+"regular_price": 260.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 37,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Ex Nihilo",
+"slug": "ex-nihilo"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Квіткові",
+"slug": "kvitkovi"
+},
+{
+"name": "Трояндові",
+"slug": "troiandovi"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/06/ex-nihilo-lust-in-paradise-extrait.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "ex-nihilo-lust-in-paradise-extrait.webp"
+},
+{
+"id": 65597,
+"name": "Dior Addict Rosy Glow",
+"slug": "dior-addict-rosy-glow",
+"type": "simple",
+"sku": "1787",
+"description": "<p>Dior Addict Rosy Glow Eau de Parfum — аромат, який пахне як рожевий десерт на вітрині дорогої кондитерської. Тут троянда не свіжа й не класична, а ніби вкрита солодкою глазурʼю. Соковитий лічі додає відчуття фруктового сиропу, а карамель робить звучання мʼяким і майже вершковим.</p>",
+"short_description": "",
+"price": 150.0,
+"regular_price": 150.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 19,
+"min": 3,
+"max": 19,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Dior",
+"slug": "dior"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Карамельний",
+"slug": "karamelnyj"
+},
+{
+"name": "Тропічні",
+"slug": "tropichni"
+},
+{
+"name": "Трояндові",
+"slug": "troiandovi"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/05/dior-addict-rosy-glow.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "dior-addict-rosy-glow.webp"
+},
+{
+"id": 73131,
+"name": "Filippo Sorcinelli Organ #7",
+"slug": "filippo-sorcinelli-organ-7",
+"type": "simple",
+"sku": "1953",
+"description": "<p>Старовинна дерев’яна церква, де повітря просочене запахом ладану, воскових свічок і сухої деревини. Але серед цієї густої атмосфери раптом з’являється щось ніжне й солодкувате, ніби поруч залишили букет квітів. Смоли додають аромату теплої, майже медової густоти, а деревні відтінки нагадують старі відполіровані лави. Тут немає звичної парфумерної солодкості, більше диму, теплого воску й тихої пряності.<br />\nНаче запах старовинного храму, де щойно загасили свічки, а в повітрі ще тримається аромат ладану й дерева</p>",
+"short_description": "",
+"price": 200.0,
+"regular_price": 200.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 86,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Filippo Sorcinelli",
+"slug": "filippo-sorcinelli"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Кокосові",
+"slug": "kokosovi"
+},
+{
+"name": "Пудрові",
+"slug": "pudrovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/08/filippo-sorcinelli-organ-7.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "filippo-sorcinelli-organ-7.webp"
+},
+{
+"id": 70506,
+"name": "Initio Lift Me Up",
+"slug": "initio-lift-me-up",
+"type": "simple",
+"sku": "1890",
+"description": "<p>Пахне так, ніби кулька ванільного пломбіру почала танути поруч із шматочком марципану. Є ніжна мигдальна солодкість від бобів тонка, вершкова ваніль і багато м’якого мускусу.</p>\n<p>Магнолія та іланг-іланг додають запах живих кремових квітів не різких і не «букетних», а ніжних, трохи солодких. Бергамот лише трохи освіжає всю цю вершковість.<br />\nУ результаті аромат нагадує дорогий крем для тіла з ваніллю та мигдалем, змішаний із запахом свіжих квітів: м’який, солодкий, дуже кремовий і затишний.</p>",
+"short_description": "",
+"price": 176.0,
+"regular_price": 220.0,
+"sale_price": 176.0,
+"in_stock": true,
+"stock": 54,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Sale",
+"slug": "sale"
+},
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Initio Parfums",
+"slug": "initio-parfums"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Ванільні",
+"slug": "vanilni"
+},
+{
+"name": "Мускусні",
+"slug": "muskusni"
+},
+{
+"name": "Пудрові",
+"slug": "pudrovi"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/08/initio-lift-me-up.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "initio-lift-me-up.webp"
+},
+{
+"id": 73168,
+"name": "Ex Nihilo Demon Dancer",
+"slug": "ex-nihilo-demon-dancer",
+"type": "simple",
+"sku": "1955",
+"description": "",
+"short_description": "",
+"price": 280.0,
+"regular_price": 280.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 55,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Ex Nihilo",
+"slug": "ex-nihilo"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Ароматичний",
+"slug": "aromatychnyj"
+},
+{
+"name": "Зелені",
+"slug": "zeleni"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/08/ex-nihilo-demon-dancer.png",
+"rating": "0",
+"review_count": 0,
+"image_file": "ex-nihilo-demon-dancer.webp"
+},
+{
+"id": 70919,
+"name": "Kenzo L&#8217;Eau Kenzo Pour Homme",
+"slug": "kenzo-leau-kenzo-pour-homme",
+"type": "simple",
+"sku": "1913",
+"description": "",
+"short_description": "",
+"price": 28.0,
+"regular_price": 35.0,
+"sale_price": 28.0,
+"in_stock": true,
+"stock": 78,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Sale",
+"slug": "sale"
+},
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Чоловічі",
+"slug": "cholovichi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Kenzo",
+"slug": "kenzo"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Акватичні",
+"slug": "akvatychni"
+},
+{
+"name": "Зелені",
+"slug": "zeleni"
+},
+{
+"name": "Фужерні",
+"slug": "fuzherni"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDT (туалетна вода)",
+"slug": "edt-tualetna-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/08/kenzo-leau-kenzo-pour-homme.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "kenzo-leau-kenzo-pour-homme.webp"
+},
+{
+"id": 70739,
+"name": "Salum Lemonade Coast",
+"slug": "salum-lemonade-coast",
+"type": "simple",
+"sku": "1905",
+"description": "<p>Lemonade Coast Salum &#8211; це холодний лимонад у спекотний день: соковитий лимон, цитрусова кислинка та багато льоду.</p>\n<p>Аромат яскравий, дзвінкий і дуже освіжаючий, ніби щойно розрізали лимон і вичавили його у склянку з газованою водою. Не солодка цукерка, а саме натуральний цитрусовий фреш із легкою гірчинкою цедри.</p>",
+"short_description": "",
+"price": 170.0,
+"regular_price": 170.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 15,
+"min": 3,
+"max": 15,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Salum",
+"slug": "salum"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Ароматичний",
+"slug": "aromatychnyj"
+},
+{
+"name": "Зелені",
+"slug": "zeleni"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/08/salum-lemonade-coast.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "salum-lemonade-coast.webp"
+},
+{
+"id": 70735,
+"name": "Salum Fig Tzatziki",
+"slug": "salum-fig-tzatziki",
+"type": "simple",
+"sku": "1904",
+"description": "",
+"short_description": "",
+"price": 180.0,
+"regular_price": 180.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 49,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Salum",
+"slug": "salum"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Акватичні",
+"slug": "akvatychni"
+},
+{
+"name": "Зелені",
+"slug": "zeleni"
+},
+{
+"name": "Лактонний",
+"slug": "laktonnyj"
+},
+{
+"name": "Озонові",
+"slug": "ozonovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/08/salum-fig-tzatziki.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "salum-fig-tzatziki.webp"
+},
+{
+"id": 74032,
+"name": "Zoologist Seahorse",
+"slug": "zoologist-seahorse",
+"type": "simple",
+"sku": "1985",
+"description": "",
+"short_description": "",
+"price": 380.0,
+"regular_price": 380.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 26,
+"min": 1,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Zoologist",
+"slug": "zoologist"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Акватичні",
+"slug": "akvatychni"
+},
+{
+"name": "Ароматичний",
+"slug": "aromatychnyj"
+},
+{
+"name": "Морські",
+"slug": "morski"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/09/zoologist-seahorse.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "zoologist-seahorse.webp"
+},
+{
+"id": 70731,
+"name": "Salum Strawberry Pool",
+"slug": "salum-strawberry-pool",
+"type": "simple",
+"sku": "1903",
+"description": "",
+"short_description": "",
+"price": 170.0,
+"regular_price": 170.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 36,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Salum",
+"slug": "salum"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Акватичні",
+"slug": "akvatychni"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/08/salum-strawberry-pool-3.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "salum-strawberry-pool.webp"
+},
+{
+"id": 70070,
+"name": "Aziri Paris Granita",
+"slug": "aziri-paris-granita",
+"type": "simple",
+"sku": "1872",
+"description": "<p>Соковита солодка диня тут відчувається так яскраво, ніби щойно розрізали її навпіл і запах одразу заповнив усю кухню. До неї додаються маракуя й стиглий персик виходить щось схоже на тропічну жуйку Tutti Frutti або фруктовий льодяник.<br />\nА далі аромат стає вершковішим: кокос нагадує морозиво, ваніль і карамель , м’яку молочну помадку. Дуже соковитий, солодкий і буквально їстівний аромат, де найбільше запам’ятовується саме стигла медова диня</p>",
+"short_description": "",
+"price": 160.0,
+"regular_price": 160.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 115,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Aziri Paris",
+"slug": "aziri-paris"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Акватичні",
+"slug": "akvatychni"
+},
+{
+"name": "Озонові",
+"slug": "ozonovi"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/07/aziri-paris-granita.jpg",
+"rating": "5.00",
+"review_count": 1,
+"image_file": "aziri-paris-granita.webp"
+},
+{
+"id": 75019,
+"name": "Lacoste Original Parfum",
+"slug": "lacoste-original-parfum",
+"type": "simple",
+"sku": "2028",
+"description": "",
+"short_description": "",
+"price": 45.0,
+"regular_price": 45.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 100,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Чоловічі",
+"slug": "cholovichi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Lacoste",
+"slug": "lacoste"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Ароматичний",
+"slug": "aromatychnyj"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Parfum (парфум)",
+"slug": "parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/10/lacoste-original-parfum.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "lacoste-original-parfum.webp"
+},
+{
+"id": 74559,
+"name": "Tom Ford Tobacco Chocolat",
+"slug": "tom-ford-tobacco-chocolat",
+"type": "simple",
+"sku": "2007",
+"description": "",
+"short_description": "",
+"price": 260.0,
+"regular_price": 260.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 58,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Tom Ford",
+"slug": "tom-ford"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Тютюнові",
+"slug": "tiutiunovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/10/tom-ford-tobacco-chocolat.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "tom-ford-tobacco-chocolat.webp"
+},
+{
+"id": 73562,
+"name": "Lancome La Vie Est Belle L&#8217;Elixir Very Cherry",
+"slug": "lancome-la-vie-est-belle-lelixir-very-cherry",
+"type": "simple",
+"sku": "1970",
+"description": "",
+"short_description": "",
+"price": 120.0,
+"regular_price": 120.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 55,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Lancôme",
+"slug": "lancome"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Вишневі",
+"slug": "vyshnevi"
+},
+{
+"name": "Озонові",
+"slug": "ozonovi"
+},
+{
+"name": "Удові",
+"slug": "udovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/09/la-vie-est-belle-verry-cherry.png",
+"rating": "0",
+"review_count": 0,
+"image_file": "lancome-la-vie-est-belle-lelixir-very-cherry.webp"
+},
+{
+"id": 65662,
+"name": "Fragrance Du Bois Sirène",
+"slug": "fragrance-du-bois-sirene",
+"type": "simple",
+"sku": "1792",
+"description": "<p>Уявіть, що на столі стоїть тарілка зі стиглою темною вишнею, поруч тліє ароматична свічка, а кімнату наповнює теплий запах деревини.<br />\nВишня тут соковита й трохи терпка, без відчуття варення. Ладан додає легкого диму, уд нагадує дороге відполіроване дерево, а смоли залишають м’яке, тепле післясмак.<br />\nЦе аромат, у якому солодкість красиво поєднується з глибиною, тому він звучить дорого й дуууже затишно</p>",
+"short_description": "",
+"price": 200.0,
+"regular_price": 200.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 46,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Fragrance Du Bois",
+"slug": "fragrance-du-bois"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Вишневі",
+"slug": "vyshnevi"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Удові",
+"slug": "udovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Parfum (парфум)",
+"slug": "parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/05/fragrance-du-bois-sirene.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "fragrance-du-bois-sirene.webp"
+},
+{
+"id": 65563,
+"name": "Essential Parfums Ambre Latte",
+"slug": "essential-parfums-ambre-latte",
+"type": "simple",
+"sku": "1784",
+"description": "<p>Пахне так, ніби в карамельний латте додали дороге дерево й теплу шкіру. Це не про кавʼярню в прямому сенсі, а про сам вайб: мʼяке світло, теплий светр, повільний ранок і момент, коли нікуди не потрібно поспішати.</p>\n<p>У центрі композиції вершкове мигдальне молоко, ваніль, боби тонка й карамель. Але головне тут те, що солодкість не стає липкою чи кондитерською. Деревні ноти, амбра й мускус роблять аромат більш дорослим, спокійним і дуже затишним.<br />\nAmbre Latte звучить так, ніби солодкий десерт загорнули в кашемір.</p>\n<p>Він огортає, гріє й створює відчуття комфорту, але при цьому залишається елегантним. Це аромат для тих, хто любить гурманіку не заради цукру, а заради атмосфери й настрою.</p>",
+"short_description": "",
+"price": 90.0,
+"regular_price": 90.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 76,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Essential Parfums",
+"slug": "essential-parfums"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Удові",
+"slug": "udovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/05/essential-parfums-ambre-latte.jpg",
+"rating": "5.00",
+"review_count": 1,
+"image_file": "essential-parfums-ambre-latte.webp"
+},
+{
+"id": 63989,
+"name": "Tom Ford Oud Wood",
+"slug": "tom-ford-oud-wood",
+"type": "simple",
+"sku": "1720",
+"description": "<p>Tom Ford Oud Wood — стримана деревина, легкі спеції та відчуття дорогого чоловічого стилю. Аромат впевненості без зайвої гучності.</p>",
+"short_description": "",
+"price": 160.0,
+"regular_price": 160.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 27,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Tom Ford",
+"slug": "tom-ford"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Удові",
+"slug": "udovi"
+},
+{
+"name": "Фужерні",
+"slug": "fuzherni"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/04/tom-ford-oud-wood.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "tom-ford-oud-wood.webp"
+},
+{
+"id": 54838,
+"name": "New Notes Akigala Mandarino",
+"slug": "new-notes-akigala-mandarino",
+"type": "simple",
+"sku": "1434",
+"description": "<p>Соковитий мандарин, яблуко, малина та маракуя — яскравий фруктовий старт.</p>\n<p>Потім зʼявляються конвалія, фрезія й жасмин, а деревні та амброві ноти роблять аромат сухішим і глибшим.</p>",
+"short_description": "",
+"price": 230.0,
+"regular_price": 230.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 29,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "New Notes",
+"slug": "new-notes"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Удові",
+"slug": "udovi"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/10/new-notes-akigala-mandarino.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "new-notes-akigala-mandarino.webp"
+},
+{
+"id": 70239,
+"name": "Nasomatto Blamage",
+"slug": "nasomatto-blamage",
+"type": "simple",
+"sku": "1875",
+"description": "<p>Наче зайти до майстерні, де пахне світлою деревиною, березою та мʼякою шкірою.</p>\n<p>Мускус згладжує сухі й трохи димні відтінки. Дивний, навмисно недосконалий і саме тому дуже цікавий аромат.</p>",
+"short_description": "",
+"price": 210.0,
+"regular_price": 210.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 27,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Nasomatto",
+"slug": "nasomatto"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Димні",
+"slug": "dymni"
+},
+{
+"name": "Шкіряні",
+"slug": "shkiriani"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/03/nasomatto-blamage.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "nasomatto-blamage.webp"
+},
+{
+"id": 62122,
+"name": "Paco Rabanne Erotic Me",
+"slug": "paco-rabanne-erotic-me",
+"type": "simple",
+"sku": "1683",
+"description": "<p>Erotic Me Rabanne — чуттєвий кремово-солодкий унісекс. Молочні та фруктові ноти, османтус і квіти переходять у мʼяку шкіряну базу. Тепле, інтимне звучання близько до шкіри. Ідеально для вечора та прохолодної погоди.</p>",
+"short_description": "",
+"price": 80.0,
+"regular_price": 80.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 13,
+"min": 3,
+"max": 13,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Paco Rabanne",
+"slug": "paco-rabanne"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Лактонний",
+"slug": "laktonnyj"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+},
+{
+"name": "Шкіряні",
+"slug": "shkiriani"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/03/paco-rabanne-erotic-me.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "paco-rabanne-erotic-me.webp"
+},
+{
+"id": 58665,
+"name": "Tiziana Terenzi Orion",
+"slug": "tiziana-terenzi-orion",
+"type": "simple",
+"sku": "1563",
+"description": "<p>Соковитий ананас із димною деревиною. Пахне статусом і впевненістю, але з мʼякою солодкістю. Яскравий, шлейфовий, дуже помітний.</p>",
+"short_description": "",
+"price": 110.0,
+"regular_price": 110.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 20,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Tiziana Terenzi",
+"slug": "tiziana-terenzi"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Димні",
+"slug": "dymni"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+},
+{
+"name": "Шкіряні",
+"slug": "shkiriani"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/01/tiziana-terenzi-orion.jpg",
+"rating": "5.00",
+"review_count": 1,
+"image_file": "tiziana-terenzi-orion.webp"
+},
+{
+"id": 54743,
+"name": "Tom Ford Ombré Leather Parfum",
+"slug": "tom-ford-ombre-leather-parfum",
+"type": "simple",
+"sku": "1427",
+"description": "<p>Глибока шкіра з квітковим теплом і темним деревом. Пахне ніччю, шкіряним салоном і впевненістю. Насичений, статусний, дуже стійкий.</p>",
+"short_description": "",
+"price": 140.0,
+"regular_price": 140.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 15,
+"min": 3,
+"max": 15,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Tom Ford",
+"slug": "tom-ford"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Озонові",
+"slug": "ozonovi"
+},
+{
+"name": "Тваринний",
+"slug": "tvarynnyj"
+},
+{
+"name": "Шкіряні",
+"slug": "shkiriani"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Parfum (парфум)",
+"slug": "parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/10/tom-ford-ombre-leather-parfum.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "tom-ford-ombre-leather-parfum.webp"
+},
+{
+"id": 39663,
+"name": "Armaf Club de Nuit Intense Man",
+"slug": "armaf-club-de-nuit-intense-man",
+"type": "simple",
+"sku": "1225",
+"description": "<p>Соковитий лимон із димком і сухим деревом.</p>\n<p>Свіжий старт, а потім — чоловіча впевненість, ніби костюм і дорогий годинник. Багато хто впізнає у ньому яскравий, статусний характер.</p>",
+"short_description": "",
+"price": 35.0,
+"regular_price": 35.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 122,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Чоловічі",
+"slug": "cholovichi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Armaf",
+"slug": "armaf"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Димні",
+"slug": "dymni"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+},
+{
+"name": "Шкіряні",
+"slug": "shkiriani"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDT (туалетна вода)",
+"slug": "edt-tualetna-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/05/Armaf-Club-de-Nuit-Intense-Man.jpg",
+"rating": "5.00",
+"review_count": 1,
+"image_file": "armaf-club-de-nuit-intense-man.webp"
+},
+{
+"id": 36477,
+"name": "Maison Crivelli Oud Maracuja",
+"slug": "maison-crivelli-oud-maracuja",
+"type": "simple",
+"sku": "1189",
+"description": "<p>Інтенсивний товариш, який буде поряд із вами весь день.<br />\nЦе яскравий старт зі злегка терпкуватої маракуї, а потім удовий шлейф із краплею шкіри.<br />\nНіби якісна шкіряна куртка, на яку потрапило кілька крапель соку маракуї.<br />\nЯскраво, стійко і неймовірно дифузно!</p>",
+"short_description": "",
+"price": 300.0,
+"regular_price": 300.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 15,
+"min": 1,
+"max": 15,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Maison Crivelli",
+"slug": "maison-crivelli"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Удові",
+"slug": "udovi"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+},
+{
+"name": "Шкіряні",
+"slug": "shkiriani"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Parfum (парфум)",
+"slug": "parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/03/maison-crivelli-oud-maracuja-1.jpg",
+"rating": "4.00",
+"review_count": 1,
+"image_file": "maison-crivelli-oud-maracuja.webp"
+},
+{
+"id": 21922,
+"name": "Juliette Has A Gun Pear INC",
+"slug": "juliette-has-a-gun-pear-inc",
+"type": "simple",
+"sku": "157",
+"description": "<p>Прохолодна зелена груша з крапельками роси й відомий «присмак» бестселера бренду Not a Perfume. На літо — ідеально. Легкий, несолодкий.</p>",
+"short_description": "",
+"price": 70.0,
+"regular_price": 70.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 94,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Juliette Has A Gun",
+"slug": "juliette-has-a-gun"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Мускусні",
+"slug": "muskusni"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/11/juliette-has-a-gun-pear-inc.jpg",
+"rating": "4.00",
+"review_count": 2,
+"image_file": "juliette-has-a-gun-pear-inc.webp"
+},
+{
+"id": 21972,
+"name": "Gritti Adele",
+"slug": "gritti-adele",
+"type": "simple",
+"sku": "23",
+"description": "<p>Adele — стебло нарцису, яке тільки зрізали, оповите стиглими персиками.</p>\n<p>Білі квіти тут не «задушливі», а ледь відчутні, тендітні. Грайливий, ніжний, мегажіночний та не нудотний. Ось прям фруктова, соковита мʼякоть персиків із квітами.</p>",
+"short_description": "",
+"price": 80.0,
+"regular_price": 80.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 20,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Gritti",
+"slug": "gritti"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Білоквіткові",
+"slug": "bilokvitkovi"
+},
+{
+"name": "Квіткові",
+"slug": "kvitkovi"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/09/gritti-adele-1.jpg",
+"rating": "5.00",
+"review_count": 3,
+"image_file": "gritti-adele.webp"
+},
+{
+"id": 70004,
+"name": "Filippo Sorcinelli Ascetic Vanilla",
+"slug": "filippo-sorcinelli-ascetic-vanilla",
+"type": "simple",
+"sku": "1868",
+"description": "<p>Це ваніль без тістечок, карамелі й кондитерської солодкості. Вона нагадує сухий стручок ванілі, який розрізали навпіл і залишили поруч із дерев’яною дошкою.<br />\nЄ трохи гіркоти, тепла деревина й легка димність, як від свічки, яку щойно загасили. Поступово ваніль стає м’якшою, майже кремовою, але все одно залишається сухою та стриманою. Наче ванільний десерт, з якого прибрали весь цукор: знайомий аромат є, але звучить зовсім не так, як очікуєш</p>",
+"short_description": "",
+"price": 184.0,
+"regular_price": 230.0,
+"sale_price": 184.0,
+"in_stock": true,
+"stock": 30,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Sale",
+"slug": "sale"
+},
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Filippo Sorcinelli",
+"slug": "filippo-sorcinelli"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Ванільні",
+"slug": "vanilni"
+},
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Карамельний",
+"slug": "karamelnyj"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/07/filippo-sorcinelli-ascetic-vanilla.png",
+"rating": "5.00",
+"review_count": 1,
+"image_file": "filippo-sorcinelli-ascetic-vanilla.webp"
+},
+{
+"id": 21695,
+"name": "27 87 Genetic Bliss",
+"slug": "27-87-genetic-bliss",
+"type": "simple",
+"sku": "328",
+"description": "<p>Багато-багато деревини!</p>\n<p>Стійкість шалена, а композиція — одна з найбажаніших за останні три місяці. Цей аромат хвалять так, ніби це презентація гучної новинки.</p>\n<p>Деревинно-перцевий акігалавуд у тандемі із сандалом і мускусом створюють дуже чисте й стильне звучання. Тут висока концентрація молекулярної деревини й крапля пудри у шлейфі.</p>",
+"short_description": "",
+"price": 240.0,
+"regular_price": 240.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 61,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "27 87",
+"slug": "27-87"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Пудрові",
+"slug": "pudrovi"
+},
+{
+"name": "Удові",
+"slug": "udovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/09/27-87-genetic-bliss-4.jpg",
+"rating": "5.00",
+"review_count": 2,
+"image_file": "27-87-genetic-bliss.webp"
+},
+{
+"id": 30876,
+"name": "Amouage Guidance",
+"slug": "amouage-guidance",
+"type": "simple",
+"sku": "1088",
+"description": "<p>Аромат, за яким полює майже кожен. Хіт 2024 року.<br />\nСолодка запечена груша з подрібненими горішками, а в шлейфі — деревина.<br />\nУ розкритті, звісно, ви почуєте ту саму трендову молекулу акігалавуд.<br />\nРозкішний, із великим шлейфом і космічною стійкістю.<br />\nДоповнюють композицію краплі троянди й османтусу.<br />\nСправжній шедевр від Квентіна Біша.</p>",
+"short_description": "",
+"price": 250.0,
+"regular_price": 250.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 110,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Amouage",
+"slug": "amouage"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/02/amouage-guidance-1.jpg",
+"rating": "4.00",
+"review_count": 4,
+"image_file": "amouage-guidance.webp"
+},
+{
+"id": 46184,
+"name": "Essential Parfums Divine Vanille",
+"slug": "essential-parfums-divine-vanille",
+"type": "simple",
+"sku": "1306",
+"description": "<p>Це не про ванільні булочки чи дешеві солодкі парфуми.<br />\nТут ваніль нагадує домашній крем-брюле з хрусткою карамельною скоринкою або ванільний пломбір, який починає повільно танути в теплі. Кориця й боби тонка додають аромату відчуття свіжого печива, а бензоїн створює м’яке смолисте тепло, ніби в кімнаті горить ароматична свічка. Османтус приносить легкий відтінок сушених абрикосів, а кедр не дає аромату стати надто солодким.<br />\nВиходить затишна, дорога ваніль, яку хочеться вдихати знову і знову</p>",
+"short_description": "",
+"price": 60.0,
+"regular_price": 60.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 154,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Essential Parfums",
+"slug": "essential-parfums"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Ванільні",
+"slug": "vanilni"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/07/essential-parfums-divine-vanille.jpg",
+"rating": "4.75",
+"review_count": 4,
+"image_file": "essential-parfums-divine-vanille.webp"
+},
+{
+"id": 54577,
+"name": "Mancera Fig Me Up",
+"slug": "mancera-fig-me-up",
+"type": "simple",
+"sku": "1417",
+"description": "<p>Солодкий інжир із молоком і краплею кокосу, ніби десерт у теплому кафе. Мʼякий, затишний, із легким вершковим настроєм, як неквапливе літо.</p>",
+"short_description": "",
+"price": 50.0,
+"regular_price": 50.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 26,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Mancera",
+"slug": "mancera"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Зелені",
+"slug": "zeleni"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/10/mancera-fig-me-up.jpg",
+"rating": "3.00",
+"review_count": 2,
+"image_file": "mancera-fig-me-up.webp"
+},
+{
+"id": 58364,
+"name": "Jean Paul Gaultier Gaultier Divine Elixir",
+"slug": "jean-paul-gaultier-gaultier-divine-elixir",
+"type": "simple",
+"sku": "1555",
+"description": "<p>Густіша, тепліша версія Divine. Більше ванілі, більше солодкості й тіла. Наче карамельний крем із морським акцентом. Шлейфовий, святковий, дуже помітний.</p>",
+"short_description": "",
+"price": 90.0,
+"regular_price": 90.0,
+"sale_price": null,
+"in_stock": false,
+"stock": null,
+"min": 3,
+"max": 12,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Jean Paul Gaultier",
+"slug": "jean-paul"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Білоквіткові",
+"slug": "bilokvitkovi"
+},
+{
+"name": "Ванільні",
+"slug": "vanilni"
+},
+{
+"name": "Морські",
+"slug": "morski"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/01/jean-paul-gaultier-gaultier-divine-elixir.jpg",
+"rating": "5.00",
+"review_count": 1,
+"image_file": "jean-paul-gaultier-gaultier-divine-elixir.webp"
+},
+{
+"id": 36612,
+"name": "Montale Boise Fruite",
+"slug": "montale-boise-fruite",
+"type": "simple",
+"sku": "1194",
+"description": "<p>Пахне легким весняним повітрям, цитрусами та пудрою. Свіжий, яскравий і, на диво, стійкий.</p>",
+"short_description": "",
+"price": 50.0,
+"regular_price": 50.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 165,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Montale",
+"slug": "montale"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Зелені",
+"slug": "zeleni"
+},
+{
+"name": "Фужерні",
+"slug": "fuzherni"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/04/Montale-Boise-Fruite.jpg",
+"rating": "5.00",
+"review_count": 1,
+"image_file": "montale-boise-fruite.webp"
+},
+{
+"id": 23357,
+"name": "Yves Saint Laurent Libre Eau de Parfum",
+"slug": "yves-saint-laurent-libre-eau-de-parfum",
+"type": "simple",
+"sku": "161",
+"description": "<p>Саме у цій концентрації відчувається кришталева лаванда. Не надто солодка, не важка, з помірною солодкуватістю.</p>\n<p>Лаванда нечасто зустрічається в жіночих ароматах і ще рідше звучить так круто, але тут — бінго! Свіжо-солодкий, інтелігентний та цікавий.</p>\n<p>У композиції — лаванда, цитруси й жасмин, а в базі — трішки ванілі. Прохолодний, енергійний!</p>",
+"short_description": "",
+"price": 110.0,
+"regular_price": 110.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 46,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Yves Saint Laurent",
+"slug": "yves-saint-laurent"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Білоквіткові",
+"slug": "bilokvitkovi"
+},
+{
+"name": "Квіткові",
+"slug": "kvitkovi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/09/yves-saint-laurent-libre-eau-de-parfum-1.jpg",
+"rating": "5.00",
+"review_count": 5,
+"image_file": "yves-saint-laurent-libre-eau-de-parfum.webp"
+},
+{
+"id": 23043,
+"name": "Tiziana Terenzi Andromeda",
+"slug": "tiziana-terenzi-andromeda",
+"type": "simple",
+"sku": "659",
+"description": "<p>Сестра Kirke, але свіжіша й повітряніша, легша у звучанні, із персиком у головній ролі, а не з малиною.</p>\n<p>Andromeda — легша й пудровіша композиція, ніби ви нанесли засіб для догляду з ароматом персика десь на зеленому полі, де багато трави. Звучання косметичне.</p>\n<p>Ну а далі — усіма улюблена потужна й феноменально стійка база з ванілі, мускусу та фруктів.</p>",
+"short_description": "",
+"price": 90.0,
+"regular_price": 90.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 24,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Tiziana Terenzi",
+"slug": "tiziana-terenzi"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Білоквіткові",
+"slug": "bilokvitkovi"
+},
+{
+"name": "Ванільні",
+"slug": "vanilni"
+},
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/09/Tiziana-Terenzi-Andromeda.jpg",
+"rating": "5.00",
+"review_count": 1,
+"image_file": "tiziana-terenzi-andromeda.webp"
+},
+{
+"id": 21711,
+"name": "Armani My Way",
+"slug": "armani-my-way",
+"type": "simple",
+"sku": "266",
+"description": "<p>Трішки кисло-солодких цитрусів, фруктова жуйка та відтінки жасмину.</p>\n<p>А хтось відчуває ягідний сироп — полуницю або суницю. На старті він по-дівочому безтурботний, а потім красиво перетворюється на аромат самодостатньої й упевненої в собі жінки. Гіпнотичний, шлейфовий і, звісно, дуже популярний — My Way.</p>",
+"short_description": "",
+"price": 85.0,
+"regular_price": 85.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 37,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Armani",
+"slug": "armani"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Білоквіткові",
+"slug": "bilokvitkovi"
+},
+{
+"name": "Квіткові",
+"slug": "kvitkovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/09/Armani-My-Way.jpg",
+"rating": "5.00",
+"review_count": 1,
+"image_file": "armani-my-way.webp"
+},
+{
+"id": 41530,
+"name": "Chloé Cedrus",
+"slug": "chloe-cedrus",
+"type": "simple",
+"sku": "1242",
+"description": "<p>Бестселер знову в наявності! Бутікова колекція, яка підкорила весь світ.<br />\nCedrus пахне чистим кедром, ніби ви гуляєте свіжим лісом після дощу. Трохи теплий і спокійний, без різкості. Підходить і на щодень, і для особливих моментів.</p>",
+"short_description": "",
+"price": 150.0,
+"regular_price": 150.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 36,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Chloé",
+"slug": "chloe"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Землисті",
+"slug": "zemlysti"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Фужерні",
+"slug": "fuzherni"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/05/Chloe-Cedrus.jpg",
+"rating": "5.00",
+"review_count": 3,
+"image_file": "chloe-cedrus.webp"
+},
+{
+"id": 21913,
+"name": "Kilian Apple Brandy On The Rocks",
+"slug": "kilian-apple-brandy-on-the-rocks",
+"type": "simple",
+"sku": "176",
+"description": "<p>Apple Brandy — абсолютний унісекс, аромат якісної деревини та алкоголю. Він несолодкий, радше свіжий. Дуже нагадує аромат яблучного сидру, який ви пʼєте у кімнаті з діжками з кедрового дерева. З перших нот ви відчуваєте яскраве яблуко, але воно тепле, з кардамоном. Цей дует ідеально звучить з алкоголем. Але алкоголь у цьому випадку не «спиртяка», а мʼякий і багатогранний післясмак. Якщо ви шукаєте несолодкий аромат Kilian або хочете почати знайомство з алкогольною лінійкою — рекомендую почати саме з нього!</p>",
+"short_description": "",
+"price": 170.0,
+"regular_price": 170.0,
+"sale_price": null,
+"in_stock": false,
+"stock": null,
+"min": 3,
+"max": 3,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Kilian",
+"slug": "kilian"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/09/Kilian-Apple-Brandy-On-The-Rocks.jpg",
+"rating": "5.00",
+"review_count": 1,
+"image_file": "kilian-apple-brandy-on-the-rocks.webp"
+},
+{
+"id": 21806,
+"name": "Orto Parisi Bergamask",
+"slug": "orto-parisi-bergamask",
+"type": "simple",
+"sku": "415",
+"description": "<p>Уявіть собі дуже яскравий, кисленько-терпкий бергамот, але з ось цією впізнаваною базою від Orto Parisi.</p>\n<p>Коли робите вдих — це концентрована ефірна олія бергамоту з лавандою та краплями лимонного соку, які потім переходять у дуже стійку мускусну базу. А коли видихаєте — можете відчути злегка підкопчений аромат деревини.</p>\n<p>Парфум не для всіх, але якщо банальні свіжачки вас уже не дивують, то обовʼязково подивіться в бік цього шедевру.</p>",
+"short_description": "",
+"price": 210.0,
+"regular_price": 210.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 19,
+"min": 3,
+"max": 19,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Orto Parisi",
+"slug": "orto-parisi"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Квіткові",
+"slug": "kvitkovi"
+},
+{
+"name": "Мускусні",
+"slug": "muskusni"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Parfum (парфум)",
+"slug": "parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/09/Orto-Parisi-Bergamask.jpg",
+"rating": "4.00",
+"review_count": 1,
+"image_file": "orto-parisi-bergamask.webp"
+},
+{
+"id": 46011,
+"name": "Hormone Paris Gaba",
+"slug": "hormone-paris-gaba",
+"type": "simple",
+"sku": "1302",
+"description": "<p>Хіт 2025 року, за яким почалося полювання.</p>\n<p>Він пахне фруктами без різкої йодистої ноти — уявіть абрикос, мандарин і краплю лаванди на чистій шкірі. Аромат свіжий, гладкий, трохи оксамитовий, як абрикосовий крем.</p>",
+"short_description": "",
+"price": 170.0,
+"regular_price": 170.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 71,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Hormone Paris",
+"slug": "hormone-paris"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Мускусні",
+"slug": "muskusni"
+},
+{
+"name": "Удові",
+"slug": "udovi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Parfum (парфум)",
+"slug": "parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/07/hormone-paris-gaba-1.jpeg",
+"rating": "5.00",
+"review_count": 8,
+"image_file": "hormone-paris-gaba.webp"
+},
+{
+"id": 21828,
+"name": "Moschino Funny",
+"slug": "moschino-funny",
+"type": "simple",
+"sku": "374",
+"description": "<p>Гіркий апельсин і рожевий перець одразу підіймають настрій.</p>\n<p>Потім зʼявляються жасмин, півонія та зелений чай, а кедр і амбра роблять аромат теплішим. Легкий, свіжий і справді веселий!</p>",
+"short_description": "",
+"price": 30.0,
+"regular_price": 30.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 29,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Moschino",
+"slug": "moschino"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Зелені",
+"slug": "zeleni"
+},
+{
+"name": "Свіжі",
+"slug": "svizhi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/09/moschino-funny.jpg",
+"rating": "5.00",
+"review_count": 1,
+"image_file": "moschino-funny.webp"
+},
+{
+"id": 69821,
+"name": "Gulf Orchid Naseem",
+"slug": "gulf-orchid-naseem",
+"type": "simple",
+"sku": "1860",
+"description": "",
+"short_description": "",
+"price": 35.0,
+"regular_price": 35.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 24,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Gulf Orchid",
+"slug": "gulf-orchid"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Ароматичний",
+"slug": "aromatychnyj"
+},
+{
+"name": "Свіжі",
+"slug": "svizhi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/07/gulf-orchid-naseem.jpg",
+"rating": "4.33",
+"review_count": 6,
+"image_file": "gulf-orchid-naseem.webp"
+},
+{
+"id": 54117,
+"name": "Ex Nihilo The Hedonist",
+"slug": "ex-nihilo-the-hedonist",
+"type": "simple",
+"sku": "1394",
+"description": "<p>Відламала його корінець: пряний, гострий, живий.</p>\n<p>Поруч світла деревина, тепла і гладка, як відполірований стіл у затишній кавʼярні. Фінал мʼякий, чистий, без налиплого цукру. Аромат про впевненість і спокій, без демонстрації.</p>",
+"short_description": "",
+"price": 220.0,
+"regular_price": 220.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 115,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Ex Nihilo",
+"slug": "ex-nihilo"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Удові",
+"slug": "udovi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/10/ex-nihilo-the-hedonist.jpg",
+"rating": "5.00",
+"review_count": 2,
+"image_file": "ex-nihilo-the-hedonist.webp"
+},
+{
+"id": 21745,
+"name": "Creed Aventus",
+"slug": "creed-aventus",
+"type": "simple",
+"sku": "144",
+"description": "<p>НАЙКРАЩИЙ АРОМАТ НАЙКРАЩОМУ ЧОЛОВІКУ НА ДЕНЬ ЗАКОХАНИХ!</p>\n<p>Терпкий, сучасний та звабливий. Його обожнюють жінки за те, що він перетворює чоловіка на справжнього Аполлона, додаючи йому сексуальності та шарму.</p>\n<p>Акорди шкіри, терпкого бергамоту й ананаса згодом переходять у благородну деревну базу з берези та пачулі. Якщо просто — це несолодкий, стриманіший деревний аромат із кислинкою ананаса. Однозначно — ХІТЯРА.</p>",
+"short_description": "",
+"price": 170.0,
+"regular_price": 170.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 3,
+"min": 3,
+"max": 3,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Чоловічі",
+"slug": "cholovichi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Creed",
+"slug": "creed"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/08/creed-aventus.jpg",
+"rating": "5.00",
+"review_count": 4,
+"image_file": "creed-aventus.webp"
+},
+{
+"id": 22014,
+"name": "Dior Sauvage EDP",
+"slug": "dior-sauvage-edp-2",
+"type": "simple",
+"sku": "201",
+"description": "<p>Суперзірка у світі чоловічих парфумів!</p>\n<p>Sauvage — це гірка шкірка цитрусів і пікантний чорний перець. Аромат асоціюється із чоловіками в костюмах та білих сорочках — дуже солідний. Водночас свіжий і пікантний, він подобається не лише чоловікам, а й жінкам поруч із ними.</p>",
+"short_description": "",
+"price": 100.0,
+"regular_price": 100.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 103,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Чоловічі",
+"slug": "cholovichi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Dior",
+"slug": "dior"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/09/Dior-Sauvage-Edp-1.jpg",
+"rating": "5.00",
+"review_count": 1,
+"image_file": "dior-sauvage-edp-2.webp"
+},
+{
+"id": 24277,
+"name": "Lattafa Khamrah",
+"slug": "lattafa-khamrah",
+"type": "simple",
+"sku": "874",
+"description": "<p>Кориця, фініки й тепла ваніль. Пахне східним десертом із сиропом. Густий, солодкий, дуже шлейфовий.</p>",
+"short_description": "",
+"price": 40.0,
+"regular_price": 40.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 60,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Lattafa",
+"slug": "lattafa"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Амброві",
+"slug": "ambrovi"
+},
+{
+"name": "Ванільні",
+"slug": "vanilni"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/12/lattafa-khamrah.jpg",
+"rating": "5.00",
+"review_count": 3,
+"image_file": "lattafa-khamrah.webp"
+},
+{
+"id": 44366,
+"name": "Nishane Hacivat",
+"slug": "nishane-hacivat",
+"type": "simple",
+"sku": "1288",
+"description": "<p>Соковитий ананас із сухим деревом і легкою димністю. Свіжий, статусний, із довгим шлейфом. Пахне успіхом і впевненістю.</p>",
+"short_description": "",
+"price": 140.0,
+"regular_price": 140.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 39,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Nishane",
+"slug": "nishane"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Землисті",
+"slug": "zemlysti"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/06/nishane-hacivat-1.jpg",
+"rating": "5.00",
+"review_count": 3,
+"image_file": "nishane-hacivat.webp"
+},
+{
+"id": 64070,
+"name": "House of Brandt Guava Sorbet",
+"slug": "house-of-brandt-guava-sorbet",
+"type": "simple",
+"sku": "1723",
+"description": "<p>Це запах, ніби ти відкриваєш холодний рожевий сорбет на пляжі.<br />\nСпочатку соковита гуава з легкою кислинкою, як тропічний фреш або фруктовий коктейль з льодом.<br />\nЄ відчуття сонця, липкої шкіри після моря і солодкого повітря.<br />\nПотім аромат стає мʼякшим: зʼявляється ніжна солодкість і чистота, ніби після душу з фруктовим гелем.</p>",
+"short_description": "",
+"price": 180.0,
+"regular_price": 180.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 26,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "House of Brandt",
+"slug": "house-of-brandt"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Ванільні",
+"slug": "vanilni"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Тропічні",
+"slug": "tropichni"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/04/house-of-brandt-guava-sorbet-1.jpg",
+"rating": "5.00",
+"review_count": 1,
+"image_file": "house-of-brandt-guava-sorbet.webp"
+},
+{
+"id": 60849,
+"name": "Lattafa Yara Elixir",
+"slug": "lattafa-yara-elixir",
+"type": "simple",
+"sku": "1631",
+"description": "<p>Бутербродик із маслом та полуничним варенням або ж полуничне маршмелоу — дуже приємно.</p>",
+"short_description": "",
+"price": 30.0,
+"regular_price": 30.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 63,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Lattafa",
+"slug": "lattafa"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Білоквіткові",
+"slug": "bilokvitkovi"
+},
+{
+"name": "Ванільні",
+"slug": "vanilni"
+},
+{
+"name": "Карамельний",
+"slug": "karamelnyj"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/02/lattafa-yara-elixir.jpg",
+"rating": "4.33",
+"review_count": 3,
+"image_file": "lattafa-yara-elixir.webp"
+},
+{
+"id": 31069,
+"name": "Lattafa Yara",
+"slug": "lattafa-yara",
+"type": "simple",
+"sku": "1091",
+"description": "<p>Мандарин, геліотроп і орхідея — ніжний, солодкий і трохи пудровий початок.</p>\n<p>Далі зʼявляються тропічні фрукти та гурманський акорд, а ваніль, сандал і мускус роблять базу кремовою та затишною.</p>",
+"short_description": "",
+"price": 30.0,
+"regular_price": 30.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 60,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Lattafa",
+"slug": "lattafa"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Ванільні",
+"slug": "vanilni"
+},
+{
+"name": "Пудрові",
+"slug": "pudrovi"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/02/lattafa-yara-1.jpg",
+"rating": "5.00",
+"review_count": 3,
+"image_file": "lattafa-yara.webp"
+},
+{
+"id": 66290,
+"name": "Lattafa Khamrah Waha",
+"slug": "lattafa-khamrah-waha",
+"type": "simple",
+"sku": "1805",
+"description": "<p>Бергамот, ялівець, юзу та імбир — холодний і дуже бадьорий старт.</p>\n<p>Огірок, шавлія й морська сіль додають мінеральної свіжості, а тонка, ваніль, мускус і деревина поступово зігрівають аромат.</p>",
+"short_description": "",
+"price": 55.0,
+"regular_price": 55.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 35,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Lattafa",
+"slug": "lattafa"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Свіжі",
+"slug": "svizhi"
+},
+{
+"name": "Фужерні",
+"slug": "fuzherni"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/06/lattafa-khamrah-waha.jpg",
+"rating": "4.50",
+"review_count": 2,
+"image_file": "lattafa-khamrah-waha.webp"
+},
+{
+"id": 76184,
+"name": "Creed Acqua Fiorentina (ЗАЛИШОК 10 мл)",
+"slug": "creed-acqua-fiorentina-zalyshok-10-ml",
+"type": "simple",
+"sku": "2075",
+"description": "<p>Зелене яблуко, стигла слива і багато світла.</p>\n<p>Грейпфрут, лимон та ананас роблять старт соковитим, троянда додає ніжності, а кедр, сандал і білий мускус залишають чисту деревну базу.</p>",
+"short_description": "",
+"price": 1300.0,
+"regular_price": 1300.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 1,
+"min": 1,
+"max": 1,
+"categories": [],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Creed",
+"slug": "creed"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Свіжі",
+"slug": "svizhi"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/11/creed-acqua-fiorentina.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "creed-acqua-fiorentina-zalyshok-10-ml.webp"
+},
+{
+"id": 75575,
+"name": "Ex Nihilo Lust in Paradise Extrait (ЗАЛИШОК 4 мл)",
+"slug": "ex-nihilo-lust-in-paradise-extrait-zalyshok-4-ml",
+"type": "simple",
+"sku": "2051",
+"description": "<p>Соковита чорна смородина з рожевим перцем і червоним імбиром — яскравий старт!</p>\n<p>Далі розкриваються троянда й жасмин, а кедр, мускус та теплі деревні ноти роблять базу щільнішою.</p>",
+"short_description": "",
+"price": 1040.0,
+"regular_price": 1040.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 1,
+"min": 1,
+"max": 1,
+"categories": [],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Ex Nihilo",
+"slug": "ex-nihilo"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Квіткові",
+"slug": "kvitkovi"
+},
+{
+"name": "Трояндові",
+"slug": "troiandovi"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/06/ex-nihilo-lust-in-paradise-extrait.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "ex-nihilo-lust-in-paradise-extrait-zalyshok-4-ml.webp"
+},
+{
+"id": 75101,
+"name": "Borntostandout Candy Dust (ЗАЛИШОК 12 мл)",
+"slug": "borntostandout-candy-dust-zalyshok-12-ml",
+"type": "simple",
+"sku": "2035",
+"description": "<p>Наче відкрив коробку улюблених солодощів: малина, груша й цукрова вата одразу підіймають настрій.</p>\n<p>Потім приходить тепле молоко й пудровий півонієвий крем, як домашнє ванільне печиво з дитинства. У шлейфі це мʼяка солодкість, що обіймає й заспокоює, ніби затишна ковдра.</p>",
+"short_description": "",
+"price": 1680.0,
+"regular_price": 1680.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 1,
+"min": 1,
+"max": 1,
+"categories": [],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Borntostandout",
+"slug": "borntostandout"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Лактонний",
+"slug": "laktonnyj"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Фруктові",
+"slug": "fruktovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/11/borntostandout-candy-dust.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "borntostandout-candy-dust-zalyshok-12-ml.webp"
+},
+{
+"id": 75099,
+"name": "Nasomatto Duro (ЗАЛИШОК 8 мл)",
+"slug": "nasomatto-duro-zalyshok-8-ml",
+"type": "simple",
+"sku": "2034",
+"description": "<p>Темне дерево, спеції й тютюнова глибина. Пахне шкірою, димом і ніччю. Густий, провокаційний, для тих, хто любить сильні аромати.</p>",
+"short_description": "",
+"price": 1680.0,
+"regular_price": 1680.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 1,
+"min": 1,
+"max": 1,
+"categories": [],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Nasomatto",
+"slug": "nasomatto"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Деревинні",
+"slug": "derevynni"
+},
+{
+"name": "Пряні",
+"slug": "priani"
+},
+{
+"name": "Шкіряні",
+"slug": "shkiriani"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/05/Nasomatto-Duro.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "nasomatto-duro-zalyshok-8-ml.webp"
+},
+{
+"id": 74384,
+"name": "Gravel Hazel (ЗАЛИШОК 13 мл)",
+"slug": "gravel-hazel-zalyshok-13-ml",
+"type": "simple",
+"sku": "2004",
+"description": "<p>Мандарин, лайм і бергамот — багато цитрусової свіжості на старті.</p>\n<p>Лист інжиру, ірис, неролі та іланг-іланг помʼякшують композицію, а мускус, ветивер і тонка залишають теплу пудрову базу.</p>",
+"short_description": "",
+"price": 780.0,
+"regular_price": 780.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 1,
+"min": 1,
+"max": 1,
+"categories": [],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Gravel",
+"slug": "gravel"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Зелені",
+"slug": "zeleni"
+},
+{
+"name": "Ірис",
+"slug": "irys"
+},
+{
+"name": "Мускусні",
+"slug": "muskusni"
+},
+{
+"name": "Пудрові",
+"slug": "pudrovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/11/gravel-hazel.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "gravel-hazel-zalyshok-13-ml.webp"
+},
+{
+"id": 74252,
+"name": "Givenchy Ange ou Demon le secret EDP (ЗАЛИШОК 17 мл)",
+"slug": "givenchy-ange-ou-demon-le-secret-edp-zalyshok-18-ml",
+"type": "simple",
+"sku": "1992",
+"description": "<p>Лимон, журавлина й зелений чай — свіжий, легкий і дуже чистий старт.</p>\n<p>Далі зʼявляється ніжний жасмин, а світла деревина робить базу мʼякою та спокійною.</p>",
+"short_description": "",
+"price": 1020.0,
+"regular_price": 1020.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 1,
+"min": 1,
+"max": 1,
+"categories": [],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Жіночі",
+"slug": "zhinochi"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Givenchy",
+"slug": "givenchy"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Білоквіткові",
+"slug": "bilokvitkovi"
+},
+{
+"name": "Свіжі",
+"slug": "svizhi"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/09/Givenchy-Ange-ou-Demon-le-secret.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "givenchy-ange-ou-demon-le-secret-edp-zalyshok-18-ml.webp"
+},
+{
+"id": 71021,
+"name": "Арабська ніч",
+"slug": "arabska-nich",
+"type": "simple",
+"sku": "1924",
+"description": "<p>Набір стійких арабських ароматів 4×3 мл</p>\n<p>«Арабська ніч» — бокс для тих, хто любить, коли парфуми не просто гарно пахнуть, а залишають після себе помітний шлейф. Ми зібрали 4 хітові арабські аромати, які особливо круто розкриваються восени: солодкі, насичені, пряні та дуже стійкі.</p>\n<p>Головна фішка боксу — за невелику ціну ви отримуєте одразу 12 мл парфумерії та чотири гучні хіти, які можна змінювати під настрій.</p>\n<p>Lattafa Eclaire — карамель, молоко та ваніль, ніби ніжний вершковий десерт із кондитерської.</p>\n<p>Lattafa Teriaq — солодка карамель, мед, фрукти та прянощі з яскравим східним характером.</p>\n<p>Naseem Gulf — соковита зелена груша з грейпфрутом і ревенем, свіжа зелень , нагадує Мохіто</p>\n<p>Lattafa Khamrah — кориця, фініки, праліне та ваніль, ніби гарячий пряний десерт осіннього вечора.</p>\n<p>4 аромати × 3 мл — доступний спосіб познайомитися з хітами арабської парфумерії та знайти свого фаворита на осінь.</p>",
+"short_description": "",
+"price": 450.0,
+"regular_price": 500.0,
+"sale_price": 450.0,
+"in_stock": true,
+"stock": 4,
+"min": 1,
+"max": 4,
+"categories": [
+{
+"name": "Sale",
+"slug": "sale"
+},
+{
+"name": "Підбірки",
+"slug": "pidbirky"
+}
+],
+"attributes": [],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/08/arabska-nich1.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "arabska-nich.webp"
+},
+{
+"id": 70173,
+"name": "Бокс «Морська четвірка»",
+"slug": "boks-morska-chetvirka",
+"type": "simple",
+"sku": "1873",
+"description": "<p>Морська четвірка &#8211; лімітований набір морських ароматів 4×2 мл.</p>\n<p>Якщо цього літа вам не вистачає моря, ми зібрали його в одному боксі.<br />\n«Морська четвірка» &#8211; це лімітований набір із чотирьох нішевих ароматів, натхненний відпусткою, морським бризом та безтурботними днями на узбережжі. Бокс доступний лише до кінця літа.</p>\n<p>Усередині чотири різні історії про море: прохолодний океанічний вітер, нагріті сонцем сосни, свіже морське повітря та легкий солоний бриз.<br />\nЦі аромати не мають статі, тому однаково чудово підійдуть і жінкам, і чоловікам.<br />\nУ наборі:<br />\n🌊Gritti Super Nova — прохолодний морський вітер, мокре каміння та свіже повітря перед літньою грозою.<br />\n🌊Zarkoperfume Cloud 2 — м’які білі хмари, свіжа білизна та відчуття абсолютної легкості.<br />\n🌊Sikelia Nikos — морський бриз, нагріті сонцем сосни та прогулянка узбережжям Сицилії.<br />\n🌊Mancera Wave Musk — чисте море, теплий пісок і солоний вітер, що освіжає навіть у найспекотніший день.</p>\n<p>Формат: 4 аромати по 2 мл достатньо, щоб познайомитися з кожним, знайти свого фаворита або взяти літо із собою, куди б ви не вирушили.</p>",
+"short_description": "",
+"price": 690.0,
+"regular_price": 760.0,
+"sale_price": 690.0,
+"in_stock": true,
+"stock": 3,
+"min": 1,
+"max": 3,
+"categories": [
+{
+"name": "Sale",
+"slug": "sale"
+},
+{
+"name": "Підбірки",
+"slug": "pidbirky"
+}
+],
+"attributes": [],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/07/photo2026-07-2812-55-03.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "boks-morska-chetvirka.webp"
+},
+{
+"id": 57386,
+"name": "Солодка дівчинка",
+"slug": "solodka-divchynka",
+"type": "simple",
+"sku": "1530",
+"description": "<p>«Солодка дівчинка» — набір із 3 найстійкіших солодких ароматів</p>\n<p>Для тих, хто обожнює солодкі парфуми, від яких неможливо відірватися. У боксі — три яскраві аромати по 3 мл у люксовому пакуванні, кожен із власним характером, але з однією спільною рисою — вони запам&#8217;ятовуються.</p>\n<p>Ruby Kajal — аромат жінки, якій можна все. Соковита черешня, ананасовий сік і розкішний шлейф, який змушує озиратися. Яскравий, впевнений і дуже компліментарний.</p>\n<p>Lalao Zeromolecule — ніби легендарний торт «Молочна дівчинка». Кремові відтінки, ніжна молочність і розкішна ваніль створюють відчуття дорогого десерту, від якого неможливо відмовитися.</p>\n<p>Coffeine Hormone Paris — аромат яскравості, сексуальності та звабливості. Солодка кава, ваніль і тепла гурманська база нагадують перший поцілунок після улюбленого десерту.</p>\n<p>«Солодка дівчинка» — це можливість познайомитися з трьома популярними солодкими ароматами без покупки повнорозмірних флаконів. Ідеальний набір для себе або на подарунок тим, хто любить смачні, стійкі та шлейфові парфуми.</p>",
+"short_description": "",
+"price": 1310.0,
+"regular_price": 1310.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 3,
+"min": 1,
+"max": 3,
+"categories": [
+{
+"name": "Підбірки",
+"slug": "pidbirky"
+}
+],
+"attributes": [],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/12/photo2026-08-0315-44-47.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "solodka-divchynka.webp"
+},
+{
+"id": 54703,
+"name": "Друга шкіра, тиха роскіш, все по-тихеньку",
+"slug": "druga-shkira-tyha-roskish-vse-po-tyhenku",
+"type": "simple",
+"sku": "1424",
+"description": "<p>Вони не кричать про себе, але завжди поруч. Ми зібрали підбірку нюдових, нейтральних і молекулярних ароматів з дуже тонким звучанням.</p>\n<p>І так, ми свідомо відійшли від заїжджених варіантів на кшталт Molecule 02, Not a Perfume, Amber Musk чи 234. 38. Бо існують набагато цікавіші аромати, про які знають лише обрані, а саме — наші улюблені покупці.</p>\n<p>У боксі 4 аромати по 2 мл — ідеально для тестуваннявання.</p>\n<p>NARCISO RODRIGUEZ PURE MUSC<br />\nНаче торкаєшся свіжої білизни після прання, відчуваючи спокій і ніжність.</p>\n<p>BYREDO DESERT DAWN<br />\nЦе ранок у пустелі, коли прохолодне повітря ще прозоре й світле.</p>\n<p>Diptyque L’Eau Papier<br />\nНаче повертаєшся до школи й відкриваєш новий зошит: запах паперу змішується із сонячним промінням.</p>\n<p>Laboratorio Olfattivo Need_U EDP<br />\nЯк ранковий бриз біля моря — чистий, мʼякий і майже невагомий.</p>\n<p>Брендові назви, якщо вони згадані, використовуються для точної ідентифікації позиції. Pshyk Rozpyv працює незалежно від правовласників брендів.</p>",
+"short_description": "",
+"price": 855.0,
+"regular_price": 950.0,
+"sale_price": 855.0,
+"in_stock": true,
+"stock": 8,
+"min": 1,
+"max": 8,
+"categories": [
+{
+"name": "Sale",
+"slug": "sale"
+},
+{
+"name": "Підбірки",
+"slug": "pidbirky"
+}
+],
+"attributes": [],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/10/img_6166.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "druga-shkira-tyha-roskish-vse-po-tyhenku.webp"
+},
+{
+"id": 54655,
+"name": "Ariana Grande",
+"slug": "ariana-grande-rekomenduye",
+"type": "simple",
+"sku": "1422",
+"description": "<p>Парфуми, які стали популярними завдяки своєму ніжному, мімімішному звучанню, коли хочеться перетворитися на пухнасту й дуже милу кішечку.</p>\n<p>Аріана Гранде справді вміє робити хіти, а цей набір допоможе познайомитися з ними ближче, не купуючи повний флакон.</p>\n<p>До набору входять 5 ароматів по 3 мл.</p>\n<p>ARIANA GRANDE ARI<br />\nСолодка вата на ярмарку, полуничні льодяники й усмішка підлітка.</p>\n<p>ARIANA GRANDE CLOUD<br />\nТеплий зефір із ваніллю, плед, серіал уночі та спокій.</p>\n<p>ARIANA GRANDE MOD BLUSH<br />\nПерша весна, полуничний йогурт, сміх подруг і легкий румʼянець.</p>\n<p>ARIANA GRANDE MOONLIGHT EDP<br />\nФіолетові сутінки, карамельний десерт, ніжні обійми й підліткові таємниці.</p>\n<p>ARIANA GRANDE R. E. M. EDP<br />\nНіч із мріями, солона карамель, лаванда, зорі й музика в навушниках.</p>",
+"short_description": "",
+"price": 600.0,
+"regular_price": 631.0,
+"sale_price": 600.0,
+"in_stock": true,
+"stock": 16,
+"min": 1,
+"max": 16,
+"categories": [
+{
+"name": "Sale",
+"slug": "sale"
+},
+{
+"name": "Підбірки",
+"slug": "pidbirky"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "EDP (парфумована вода)",
+"slug": "edp-parfumovana-voda"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/10/img_6067.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "ariana-grande-rekomenduye.webp"
+},
+{
+"id": 65063,
+"name": "Флакон 20 мл",
+"slug": "flakon-20-ml",
+"type": "variable",
+"sku": "",
+"description": "<p>Порожній флакон для парфумів обʼємом 20 мл.</p>\n<p>Зручний для власних розливів, дорожніх форматів і акуратного зберігання аромату. Продається без парфуму — лише флакон.</p>\n<p>Назви брендів у картці потрібні для точного опису товару. Pshyk Rozpyv працює незалежно від правовласників брендів.</p>",
+"short_description": "",
+"price": 110.0,
+"regular_price": 110.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 999,
+"min": 1,
+"max": 1,
+"categories": [
+{
+"name": "Тара",
+"slug": "tara"
+}
+],
+"attributes": [],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/05/flakon-20-ml-chornyj.png",
+"rating": "0",
+"review_count": 0,
+"image_file": "flakon-20-ml.webp"
+},
+{
+"id": 26715,
+"name": "Флакон 5 мл",
+"slug": "flakon-5-ml-2",
+"type": "variable",
+"sku": "",
+"description": "<p>Порожній флакон для парфумів обʼємом 5 мл.</p>\n<p>Зручний для власних розливів, дорожніх форматів і акуратного зберігання аромату. Продається без парфуму — лише флакон.</p>\n<p>Назви брендів, якщо вони згадані, допомагають точно визначити повʼязані товари. Pshyk Rozpyv працює незалежно від правовласників брендів.</p>",
+"short_description": "",
+"price": 60.0,
+"regular_price": 60.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 999,
+"min": 1,
+"max": 1,
+"categories": [
+{
+"name": "Тара",
+"slug": "tara"
+}
+],
+"attributes": [],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/12/photo_2024-07-01_12-38-30.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "flakon-5-ml-2.webp"
+},
+{
+"id": 22359,
+"name": "Флакон 10 мл",
+"slug": "flakon-marmurovyj-10-ml",
+"type": "variable",
+"sku": "",
+"description": "<p>Порожній флакон для парфумів обʼємом 10 мл.</p>\n<p>Зручний для власних розливів, дорожніх форматів і акуратного зберігання аромату. Продається без парфуму — лише флакон.</p>\n<p>Назви брендів, якщо вони згадані, допомагають точно визначити повʼязані товари. Pshyk Rozpyv працює незалежно від правовласників брендів.</p>",
+"short_description": "",
+"price": 75.0,
+"regular_price": 75.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 999,
+"min": 1,
+"max": 1,
+"categories": [
+{
+"name": "Тара",
+"slug": "tara"
+}
+],
+"attributes": [],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2024/12/photo_2024-12-28_20-15-36.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "flakon-marmurovyj-10-ml.webp"
+},
+{
+"id": 65402,
+"name": "Aroma case на 5 мл",
+"slug": "aroma-case-bilyj-5-ml",
+"type": "variable",
+"sku": "",
+"description": "<p>Зручний кейс для флаконів із розпивом. Кришка тримається на магнітах, тому кейс не відкривається в сумочці.</p>\n<p>Брендові назви в картці використовуються для точної ідентифікації повʼязаних товарів. Pshyk Rozpyv працює незалежно від правовласників брендів.</p>",
+"short_description": "",
+"price": 360.0,
+"regular_price": 360.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 999,
+"min": 1,
+"max": 999,
+"categories": [
+{
+"name": "Інше",
+"slug": "inshe"
+}
+],
+"attributes": [],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/12/img_9575-scaled.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": null
+},
+{
+"id": 57149,
+"name": "Aroma case на 3 мл",
+"slug": "aroma-case",
+"type": "variable",
+"sku": "",
+"description": "<p>Зручний кейс для зберігання вашого розпиву.<br />\nМожна розмістити 3 аромати по 3 мл, підходять різні флакони — як пластикові, так і металеві.<br />\nКришка тримається на магнітах і не відкривається в сумочці.</p>\n<p>Назви брендів, якщо вони згадані, допомагають точно визначити повʼязані товари. Pshyk Rozpyv працює незалежно від правовласників брендів.</p>",
+"short_description": "",
+"price": 360.0,
+"regular_price": 360.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 999,
+"min": 1,
+"max": 999,
+"categories": [
+{
+"name": "Інше",
+"slug": "inshe"
+}
+],
+"attributes": [],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/12/img_9575-scaled.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": null
+},
+{
+"id": 57083,
+"name": "Lattafa Yara &#8211; Парфумований дезодорант-спрей",
+"slug": "lattafa-perfumes-yara-parfumovanyj-dezodorant-sprej",
+"type": "simple",
+"sku": "1512",
+"description": "<p>Тепла ванільна солодкість і мʼяка пудровість у форматі парфумованого дезодоранту-спрею.</p>\n<p>Ніжно, солодко й дуже затишно.</p>",
+"short_description": "",
+"price": 270.0,
+"regular_price": 270.0,
+"sale_price": null,
+"in_stock": true,
+"stock": 1,
+"min": 1,
+"max": 1,
+"categories": [
+{
+"name": "Інше",
+"slug": "inshe"
+}
+],
+"attributes": [],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2025/12/lattafa-perfumes-yara-parfumovanyj-dezodorant-sprej.jpg",
+"rating": "0",
+"review_count": 0,
+"image_file": "lattafa-perfumes-yara-parfumovanyj-dezodorant-sprej.webp"
+},
+{
+"id": 70743,
+"name": "Salum Blue Mai Tai",
+"slug": "salum-blue-mai-tai",
+"type": "simple",
+"sku": "1906",
+"description": "",
+"short_description": "",
+"price": 128.0,
+"regular_price": 160.0,
+"sale_price": 128.0,
+"in_stock": true,
+"stock": 38,
+"min": 3,
+"max": 20,
+"categories": [
+{
+"name": "Sale",
+"slug": "sale"
+},
+{
+"name": "Розпив",
+"slug": "rozpyv"
+}
+],
+"attributes": [
+{
+"taxonomy": "pa_stat",
+"name": "Стать",
+"terms": [
+{
+"name": "Унісекс",
+"slug": "uniseks"
+}
+]
+},
+{
+"taxonomy": "pa_brend",
+"name": "Бренд",
+"terms": [
+{
+"name": "Salum",
+"slug": "salum"
+}
+]
+},
+{
+"taxonomy": "pa_hrupa_aromativ",
+"name": "Група аромату",
+"terms": [
+{
+"name": "Ромовий",
+"slug": "romovyj"
+},
+{
+"name": "Солодкі",
+"slug": "solodki"
+},
+{
+"name": "Цитрусові",
+"slug": "tsytrusovi"
+}
+]
+},
+{
+"taxonomy": "pa_konczentracziya",
+"name": "Концентрація",
+"terms": [
+{
+"name": "Extrait De Parfum (екстракт)",
+"slug": "extrait-de-parfum-parfum"
+}
+]
+}
+],
+"image": "https://pshykrozpyv.com/wp-content/uploads/2026/08/salum-blue-mai-tai.png",
+"rating": "0",
+"review_count": 0,
+"image_file": "salum-blue-mai-tai.webp"
+}
+],
+"reviews": [
+{
+"product_id": 21922,
+"reviewer": "savratskaluda55",
+"review": "<p>Дуже гарно пахнуть, соковитою грушою</p>\n",
+"rating": 5,
+"date": "2026-11-14T19:46:30"
+},
+{
+"product_id": 21972,
+"reviewer": "Пивоварник Галина",
+"review": "<p>Користуюсь Gritti Adele вже два роки, для мене це ідеальний жіночний аромат, ніжний і легкий. Аромат нагадує солодке ігристе шампанське. Тримається на шкірі дуже довго, але без зайвої різкості</p>\n",
+"rating": 5,
+"date": "2026-11-12T18:31:02"
+},
+{
+"product_id": 70004,
+"reviewer": "Кузьменко Тетяна",
+"review": "<p>Дуже мʼякий, солодкий, ледь приторний аромат, але не навʼязливий. Зовсім не схоже на Сорчінеллі) І чимось нагадує Рубі від Каял, але без вишні)</p>\n",
+"rating": 5,
+"date": "2026-11-05T09:50:37"
+},
+{
+"product_id": 21695,
+"reviewer": "liodanadejda",
+"review": "<p>Дуже не навязлизливий, приємний, аромат впевненого в собі чоловіка.</p>\n",
+"rating": 5,
+"date": "2026-10-30T09:37:52"
+},
+{
+"product_id": 30876,
+"reviewer": "liodanadejda",
+"review": "<p>Не мій аромат. Відчуваю запах поту, котячої сечі. На жаль</p>\n",
+"rating": 1,
+"date": "2026-10-30T09:36:10"
+},
+{
+"product_id": 46184,
+"reviewer": "Сергійчик Дар'я",
+"review": "<p>Дуже сподобався. Тепла, пряна ваніль, точно не гурманська</p>\n",
+"rating": 5,
+"date": "2026-10-29T22:38:30"
+},
+{
+"product_id": 54577,
+"reviewer": "Сергійчик Дар'я",
+"review": "<p>Приємний солодкий аромат, очікувала що буде більш свіжим. Для мене навіть трохи занадто солодко, мені здається буде краще для холодної пори</p>\n",
+"rating": 4,
+"date": "2026-10-29T22:33:56"
+},
+{
+"product_id": 30876,
+"reviewer": "Щербак Юля",
+"review": "<p>Неймовірний та стійкий аромат , одного пшику вистачає до наступного прання одягу ) у мене цей аромат найбільше збирає компліментів. Швидка доставка ,та надійне пакування</p>\n",
+"rating": 5,
+"date": "2026-10-29T17:21:55"
+},
+{
+"product_id": 58364,
+"reviewer": "Прокопів Христина",
+"review": "<p>Розкіш у флаконі</p>\n",
+"rating": 5,
+"date": "2026-10-29T14:54:10"
+},
+{
+"product_id": 74788,
+"reviewer": "Прокопів Христина",
+"review": "<p>Яскравий та свіжий в міру</p>\n",
+"rating": 5,
+"date": "2026-10-29T14:53:45"
+},
+{
+"product_id": 74784,
+"reviewer": "Прокопів Христина",
+"review": "<p>Досить гурманський</p>\n",
+"rating": 5,
+"date": "2026-10-29T14:53:18"
+},
+{
+"product_id": 36612,
+"reviewer": "Прокопів Христина",
+"review": "<p>Свіжий та дуже приємний</p>\n",
+"rating": 5,
+"date": "2026-10-29T14:52:46"
+},
+{
+"product_id": 23357,
+"reviewer": "Єрмак Юлія",
+"review": "<p>Чуттєвий, елегантний, звучить дорого, залишає розкішний шлейф і точно не залишається непоміченим. Мій фаворит однозначно</p>\n",
+"rating": 5,
+"date": "2026-10-25T09:52:29"
+},
+{
+"product_id": 23043,
+"reviewer": "Єрмак Юлія",
+"review": "<p>Ніжний аромат із вишуканим, дорогим звучанням і чарівним шлейфом. Жіночний, загадковий і компліментарний. Мені більше підходить на прохолодну пору року.</p>\n",
+"rating": 5,
+"date": "2026-10-25T09:49:42"
+},
+{
+"product_id": 21711,
+"reviewer": "Єрмак Юлія",
+"review": "<p>Armani My Way — ніжний, жіночний і вишуканий аромат із красивим шлейфом. Пахне дорого, привертає увагу й закохує з першого вдиху!</p>\n",
+"rating": 5,
+"date": "2026-10-25T09:46:47"
+},
+{
+"product_id": 41530,
+"reviewer": "a_petrakova",
+"review": "<p>Ідеальний базовий аромат чистоти. Прохолодний, деревний, інтелігентний. Пахне дуже природно і дорого, абсолютно не набридає. Стійкість висока.</p>\n",
+"rating": 5,
+"date": "2026-10-18T21:04:51"
+},
+{
+"product_id": 21913,
+"reviewer": "a_petrakova",
+"review": "<p>Тестувала вперше. Для мене - це жіночий аромат. Ефект -Ваууу! Іскристі яблуко й ананас на фоні теплого кедра, плюс ненав'язливі нотки алкоголю. Це красиво, витончено, смачно!</p>\n",
+"rating": 5,
+"date": "2026-10-17T21:36:25"
+},
+{
+"product_id": 21806,
+"reviewer": "kelsimeta",
+"review": "<p>стійкий, на одязі тримається довго, 1 доба точно. Щодо аромату, він різний протягом всього часу змінюється, від подобається до не дуже, тому 4*</p>\n",
+"rating": 4,
+"date": "2026-10-17T00:39:02"
+},
+{
+"product_id": 46011,
+"reviewer": "Карпенко Алена",
+"review": "<p>Стійкий/шлейфовий,але не мій<br />\nСпочатку такий солодкий,квітковий,а потім аромат резини від авто)<br />\nДобре що взяла на затест,а не повний обʼєм))</p>\n",
+"rating": 5,
+"date": "2026-10-14T11:24:33"
+},
+{
+"product_id": 21828,
+"reviewer": "kelsimeta",
+"review": "<p>класний, шкода шо не такий стійкий як  Той 2 перл</p>\n",
+"rating": 5,
+"date": "2026-10-11T22:37:16"
+},
+{
+"product_id": 69821,
+"reviewer": "kelsimeta",
+"review": "<p>приємно вразив</p>\n",
+"rating": 5,
+"date": "2026-10-11T22:35:49"
+},
+{
+"product_id": 74235,
+"reviewer": "kelsimeta",
+"review": "<p>дуже класний легкий аромат, забираю одну зірку бо не стійкий як і Орандж краш</p>\n",
+"rating": 4,
+"date": "2026-10-11T22:35:05"
+},
+{
+"product_id": 54117,
+"reviewer": "Косинська Ізабелла",
+"review": "<p>Аромат просто вау, купляла для чоловіка(бо він він унісекс), але відчуваю, що буду теж іноди пшикатись. Не порівняти його ні з чим, просто дуже подобається, класна ніша</p>\n",
+"rating": 5,
+"date": "2026-10-09T13:24:13"
+},
+{
+"product_id": 21745,
+"reviewer": "Косинська Ізабелла",
+"review": "<p>Поки тільки пробуємо цей аромат, чоловік каже - нормально, ахаха) мені пахне таким типовим приємним чоловічим ароматом.</p>\n",
+"rating": 5,
+"date": "2026-10-09T13:22:56"
+},
+{
+"product_id": 22014,
+"reviewer": "Косинська Ізабелла",
+"review": "<p>Улюблений парфум мого чоловіка, якби там не було)) ненав'язливий приємний аромат, а тут ще взяла в дорожньому форматі, користується з задоволенням</p>\n",
+"rating": 5,
+"date": "2026-10-09T13:21:28"
+},
+{
+"product_id": 24277,
+"reviewer": "Косинська Ізабелла",
+"review": "<p>Неочікувала такий приємно-солодкий аромат, на зимній період буде просто вау</p>\n",
+"rating": 5,
+"date": "2026-10-09T13:18:26"
+},
+{
+"product_id": 69821,
+"reviewer": "Бакланова Наталія",
+"review": "<p>Взяла за рекомендацією і не прогадала. Гарний, свіжий аромат, стійкість на рівні!</p>\n",
+"rating": 4,
+"date": "2026-10-08T10:51:21"
+},
+{
+"product_id": 44366,
+"reviewer": "alinahordiyenko",
+"review": "<p>Цікавий аромат<br />\nОписати його ноти тяжко, але асоціація  свіжо викопаними із землі, а потім зрізаними зеленими стеблами квітів</p>\n",
+"rating": 5,
+"date": "2026-10-06T20:52:52"
+},
+{
+"product_id": 64070,
+"reviewer": "alinahordiyenko",
+"review": "<p>Мені було досить тяжко уявити як пахне гуава, бо вона що на смак що на аромат невиразна. Свіжий фруктовий аромат, але це не солодкі фрукти, відчутна мінімальна кислинка і аромат чистого тіла, помитого фруктовим гелем для душу</p>\n",
+"rating": 5,
+"date": "2026-10-06T20:48:56"
+},
+{
+"product_id": 21972,
+"reviewer": "alinahordiyenko",
+"review": "<p>Пахне чистотою, не свіжістю, а саме чистотою<br />\nХоча в піраміді багато квітів, але це не тяжкий, не душний аромат</p>\n",
+"rating": 5,
+"date": "2026-10-06T20:45:34"
+},
+{
+"product_id": 60849,
+"reviewer": "alinahordiyenko",
+"review": "<p>Більш пудровий ніж звичайна яра, я великої різниці не бачу</p>\n",
+"rating": 5,
+"date": "2026-10-06T20:28:41"
+},
+{
+"product_id": 31069,
+"reviewer": "alinahordiyenko",
+"review": "<p>Приємний пудровий, трошки солоденький аромат. Не густий і не пряний, але арабське звучання зберігається</p>\n",
+"rating": 5,
+"date": "2026-10-06T20:26:59"
+},
+{
+"product_id": 66290,
+"reviewer": "alinahordiyenko",
+"review": "<p>Дуже прикольний пряний аромат, вдало поєднує в собі і класичне арабське звучання і охолоджуючу свіжість</p>\n",
+"rating": 5,
+"date": "2026-10-06T20:24:54"
+},
+{
+"product_id": 69821,
+"reviewer": "alinahordiyenko",
+"review": "<p>Свіжі, цитрусові, зелені<br />\nНа день, ні літо якраз</p>\n",
+"rating": 5,
+"date": "2026-10-06T20:22:48"
+},
+{
+"product_id": 39663,
+"reviewer": "alinahordiyenko",
+"review": "<p>Пахне трошки димом, трошки бетоном, трошки шкірою. Вайб дуже важного мужчини</p>\n",
+"rating": 5,
+"date": "2026-10-06T20:21:03"
+},
+{
+"product_id": 55271,
+"reviewer": "makuhaanastasia08",
+"review": "<p>Купувала чоловіку,стійкі ,свіжі .Для тих хто полюбляє Tyger ,але ціна приємніша.</p>\n",
+"rating": 5,
+"date": "2026-10-01T14:11:51"
+},
+{
+"product_id": 70713,
+"reviewer": "alinahordiyenko",
+"review": "<p>Не душний, не тягучий арабіш парфум, з мінімальними нотками свіжості, стійкість норм, за свої гроші топ, немаю жодних нарікань</p>\n",
+"rating": 5,
+"date": "2026-09-23T10:33:53"
+},
+{
+"product_id": 46184,
+"reviewer": "alinahordiyenko",
+"review": "<p>Сподобається тим, хто не любить гурманську ваніль</p>\n",
+"rating": 4,
+"date": "2026-09-23T10:31:42"
+},
+{
+"product_id": 70070,
+"reviewer": "alinahordiyenko",
+"review": "<p>Він пахне як дуже супер стигла солодка диня, цукриста така, яку розрізаєш і сік тече + жуйка зі смаком тропічних фруктів</p>\n",
+"rating": 5,
+"date": "2026-09-21T20:02:00"
+},
+{
+"product_id": 60849,
+"reviewer": "Прокопів Христина",
+"review": "<p>Вартує того щоби спробувати</p>\n",
+"rating": 4,
+"date": "2026-09-19T14:51:08"
+},
+{
+"product_id": 69762,
+"reviewer": "Прокопів Христина",
+"review": "<p>Для мене це ідеальний парфум на зиму</p>\n",
+"rating": 5,
+"date": "2026-09-19T14:49:57"
+},
+{
+"product_id": 21745,
+"reviewer": "Ковальчук Сергій",
+"review": "<p>Чудовий аромат ,мені підійшов одразу....</p>\n",
+"rating": 5,
+"date": "2026-09-11T08:59:30"
+},
+{
+"product_id": 32818,
+"reviewer": "ivannatkac713",
+"review": "<p>Неймовірно красивий тілесний аромат. Дуже хороша стійкість. На мою думку на вересень якраз топ.</p>\n",
+"rating": 5,
+"date": "2026-09-10T16:25:02"
+},
+{
+"product_id": 46011,
+"reviewer": "Ольга",
+"review": "<p>Стійкий і шлейфовий аромат, досить приємний і впізнаваний. Але мене напрягає трохи його аж занадто популярність, я відчуваю цей запах дуже часто на комусь ще.</p>\n",
+"rating": 5,
+"date": "2026-09-06T01:41:17"
+},
+{
+"product_id": 21996,
+"reviewer": "Горяна Ольга",
+"review": "<p>Не скажу, що це мій улюблений аромат, бо люблю влітку більш свіжі аромати, але чоловік мій просто сходить з розуму, коли відчуває цей аромат на мені)</p>\n",
+"rating": 5,
+"date": "2026-09-06T01:28:10"
+},
+{
+"product_id": 23357,
+"reviewer": "Горяна Ольга",
+"review": "<p>Люблю цей аромат, особливо в холодну пору, в міру солодкий. Дуже стійкий і шлейфовий.</p>\n",
+"rating": 5,
+"date": "2026-09-06T01:21:49"
+}
+],
+"top": [
+21996,
+65658,
+59289,
+55271
+],
+"clean": [
+22001,
+41337,
+32818,
+21936,
+21924,
+21923,
+21815,
+23089
+]
+}

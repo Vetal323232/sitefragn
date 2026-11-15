@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="uk"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pshyk Boutique — дизайн-токени</title>
+<link rel="stylesheet" href="../pshyk-boutique/assets/css/tokens.css">
+<link rel="stylesheet" href="../pshyk-boutique/assets/css/boutique.css">
+<style>
+body{margin:0;background:var(--pb-ivory);color:var(--pb-ink-2);font:16px/1.6 var(--pb-font-ui)}
+.wrap{max-width:1180px;margin:auto;padding:40px 32px;display:grid;grid-template-columns:1.1fr .9fr;gap:48px}
+h1{font:600 64px/1 var(--pb-font-display);color:var(--pb-ink);margin:0 0 8px;letter-spacing:-.02em} h1 em{font-style:italic;font-weight:500;color:var(--pb-plum)}
+h2{font:700 12px/1 var(--pb-font-ui);letter-spacing:.14em;text-transform:uppercase;color:var(--pb-plum);margin:32px 0 14px}
+.sw{display:grid;grid-template-columns:repeat(5,1fr);gap:10px}.sw div{border-radius:6px;height:72px;padding:8px;font-size:11px;display:flex;align-items:flex-end;border:1px solid var(--pb-sand)}
+.type p{margin:4px 0}.d{font:600 44px/1 var(--pb-font-display);color:var(--pb-ink)}.h2{font:600 34px/1.1 var(--pb-font-display);color:var(--pb-ink)}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}.sp div{background:var(--pb-plum-100);border-left:2px solid var(--pb-plum);height:24px}
+.panel{background:var(--pb-paper);border:1px solid var(--pb-sand);border-radius:6px;padding:20px}
+.motion td{padding:4px 12px 4px 0;font-size:14px} code{font-size:12px;color:var(--pb-ink-3)}
+</style></head><body><div class="wrap">
+<div>
+<h1>Спробуйте аромат, <em>перш ніж</em> купувати флакон</h1>
+<p>Концепція «Лабораторія на кремовому папері»: теплий папір, графітове чорнило, один сливовий акцент.</p>
+<h2>Колір (контраст на ivory)</h2>
+<div class="sw">
+<div style="background:var(--pb-ivory)">ivory #f5efe6<br>фон</div>
+<div style="background:var(--pb-paper)">paper #fbf8f3<br>поверхні</div>
+<div style="background:var(--pb-linen)">linen #ece3d6<br>фото-підкладка</div>
+<div style="background:var(--pb-sand)">sand #ddd1c0<br>лінії</div>
+<div style="background:var(--pb-sand-strong);color:#fff">#8a7a66<br>межі 3.6:1</div>
+<div style="background:var(--pb-ink);color:#fff">ink #1f1b18<br>15.0:1</div>
+<div style="background:var(--pb-ink-2);color:#fff">ink-2<br>8.6:1</div>
+<div style="background:var(--pb-ink-3);color:#fff">ink-3<br>5.4:1</div>
+<div style="background:var(--pb-plum);color:#fff">plum #6b2a47<br>9.0:1</div>
+<div style="background:var(--pb-night);color:var(--pb-on-night)">night<br>редакційна смуга</div>
+</div>
+<h2>Типографіка</h2>
+<div class="type"><p class="d">Cormorant 600 — дисплей 44→72</p><p class="h2">Заголовок секції 34→56</p><p><b style="color:var(--pb-ink)">Manrope 16/1.6</b> — інтерфейс і текст: ґ є і ї ₴ № — «лапки».</p><p style="font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;color:var(--pb-plum)">Мітка 12 · 0.14em</p></div>
+<h2>Відступи (4-px сітка) і ширини</h2>
+<div class="row sp"><div style="width:4px"></div><div style="width:8px"></div><div style="width:12px"></div><div style="width:16px"></div><div style="width:24px"></div><div style="width:32px"></div><div style="width:48px"></div><div style="width:64px"></div><div style="width:96px"></div><div style="width:128px"></div></div>
+<p><code>сторінка 1280 · текст 40rem (~68 знаків) · секції 56→128 · поле 16→40</code></p>
+</div>
+<div>
+<h2>Стани елементів</h2>
+<div class="panel">
+<div class="row" style="margin-bottom:12px"><a class="pb-btn pb-btn--primary" href="#">Обрати аромат</a><a class="pb-btn pb-btn--ghost" href="#">Допомогти з вибором</a></div>
+<fieldset class="pb-vol"><legend class="pb-vol__legend"><span class="pb-vol__legend-text">Оберіть обʼєм</span><span class="pb-vol__per">80 ₴ за 1 мл</span></legend>
+<div class="pb-vol__list">
+<input class="pb-vol__input" type="radio" name="d" id="a"><label class="pb-vol__chip" for="a"><span class="pb-vol__ml">3 мл</span><span class="pb-vol__price">240 ₴</span></label>
+<input class="pb-vol__input" type="radio" name="d" id="b" checked><label class="pb-vol__chip" for="b"><span class="pb-vol__ml">5 мл</span><span class="pb-vol__price">400 ₴</span></label>
+<input class="pb-vol__input" type="radio" name="d" id="c"><label class="pb-vol__chip" for="c"><span class="pb-vol__ml">10 мл</span><span class="pb-vol__price">800 ₴</span></label>
+<input class="pb-vol__input" type="radio" name="d" id="e" disabled><label class="pb-vol__chip pb-vol__chip--off" for="e"><span class="pb-vol__ml">15 мл</span><span class="pb-vol__price">немає</span></label>
+</div></fieldset>
+<div class="pb-total" style="margin-top:16px"><dl class="pb-total__list"><div class="pb-total__row"><dt>Аромат, 5 мл</dt><dd>400 ₴</dd></div><div class="pb-total__row"><dt>Флакон 5 мл</dt><dd>60 ₴</dd></div><div class="pb-total__row pb-total__row--sum"><dt>Разом</dt><dd>460 ₴</dd></div></dl></div>
+<p style="margin:16px 0 0"><span class="pb-price"><span class="pb-price__from">від </span><span class="pb-price__amount">240 ₴</span> <span class="pb-price__vol">за 3 мл</span></span><span class="pb-price__per">80 ₴ / мл</span></p>
+<p class="row" style="margin-top:12px"><a class="pb-chip" href="#">Група аромату: Свіжі <span class="pb-chip__x">×</span></a> <a class="pb-link" href="#">Посилання</a></p>
+</div>
+<h2>Розміри · форма · рух</h2>
+<table class="motion"><tr><td>Кнопки, поля</td><td><code>48 px, радіус 2 px</code></td></tr><tr><td>Чипи обʼєму</td><td><code>≥ 60×87 px, радіус 6 px</code></td></tr><tr><td>Фокус</td><td><code>2 px plum, відступ 3 px</code></td></tr><tr><td>hover / press</td><td><code>150 ms</code></td></tr><tr><td>вибір, підсумок</td><td><code>220 ms</code></td></tr><tr><td>панелі, sticky-бар</td><td><code>300 ms</code></td></tr><tr><td>поява секцій</td><td><code>560 ms, раз, лише нижче першого екрана</code></td></tr><tr><td>reduced motion</td><td><code>усі тривалості → 0</code></td></tr></table>
+</div></div></body></html>
